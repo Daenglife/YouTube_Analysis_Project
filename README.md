@@ -1,4 +1,4 @@
-# YouTube_Analysi_Project
+# YouTube_Analysis_Project
 YouTube Channel Analytics is a project designed to provide insights into YouTube channel and video performance using the YouTube API. The project begins by generating an API key to access YouTube data. Necessary Python packages like `google-api-python-client`, `pandas`, and `seaborn` are installed.
 
 In the first part of the project, we extract data on various YouTube channels, including the channel name, subscriber count, total views, and the number of videos. This data is loaded into a Pandas DataFrame for analysis. Basic visualizations are created to highlight these comparisons.
