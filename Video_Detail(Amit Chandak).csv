@@ -1,0 +1,842 @@
+,Title,Published_date,Views,Likes,Comment,Month
+0,Microsoft Fabric- Embed Interactive Power BI Visualizations in Python Notebooks| Visualize Dataframe,2024-08-13,188,8,2,Aug
+1,#learnmicrosoftfabric #hindi- Microsoft Fabric क्या है? #microsoftfabric #powerbi #datavisualization,2024-08-11,25,2,0,Aug
+2,"#PowerBI: Are you a fresher in the Power BI world, constantly searching for real-time experience?",2024-08-10,216,11,4,Aug
+3,DAX Query View Now Available in Power BI Live Connect| Power BI Update July 2024,2024-08-09,160,7,0,Aug
+4,#powerbi How to do conditional formatting by a measure and applying it to pie?  #shorts,2024-08-07,270,17,0,Aug
+5,What is a Conformed Dimension in Power BI?| Interview Question 60| A Comprehensive Guide,2024-08-06,208,5,2,Aug
+6,Power BI Interview Question: what is Role-Playing Dimensions? A Complete Guide,2024-07-30,383,15,0,Jul
+7,Microsoft Fabric Time Machine: Time travel in Fabric Lakehouse| Historical Data with Time Travel,2024-07-23,299,9,2,Jul
+8,"#PowerBI: What is Power BI Visual Calculations| RUNNINGSUM, RANGE, MOVINGAVERAGE, COLLAPSE, EXPAND",2024-07-18,136,2,0,Jul
+9,Power BI Interview Question: What is Slowly Changing Dimensions (SCD) in Data Warehousing?,2024-07-17,452,17,1,Jul
+10,"Microsoft Fabric in Hindi- Notebooks: Essential Functions for Analysis| Describe, join, groupBy",2024-07-15,245,7,2,Jul
+11,#powerbi #Stacked #Visual show both Value and Percent| Data Label Customizations,2024-07-14,171,5,0,Jul
+12,#powerbi #matrixvisual Layouts,2024-07-12,98,1,0,Jul
+13,Power BI Tutorial: Create a 12-Month Trend with Single Slicer Selection on connected Date table,2024-07-11,380,12,0,Jul
+14,#Learn #powerbi Exclusive Early Access! Power BI Full Course for Beginners #shorts 🚀#2024,2024-07-08,142,7,0,Jul
+15,Power BI Interview Questions| Understanding Table Relationships in Power BI | Q57,2024-07-08,382,15,2,Jul
+16,Create Field Parameters in Microsoft Fabric Custom Semantic Model using Calculated Table| SSMS| XMLA,2024-06-29,611,16,4,Jun
+17,"Microsoft Fabric Notebooks: Essential Functions for Data Analysis| Describe, filter, join, groupBy",2024-06-28,279,13,4,Jun
+18,Microsoft Fabric in Hindi (New Feature!): DAX Calculated Columns & Tables| Column Header Grouping,2024-06-25,292,6,2,Jun
+19,Supercharge Your Data Analysis: DAX Calculated Columns & Tables in Microsoft Fabric (New Feature!),2024-06-23,625,16,9,Jun
+20,Microsoft Fabric in Hindi: Create Custom Semantic Model and Calculation Groups,2024-06-19,231,3,5,Jun
+21,Microsoft Fabric Hindi: Time travel in Microsoft Fabric Warehouse| Historical Data with Time Travel,2024-06-14,141,2,2,Jun
+22,Microsoft Fabric: How to Transfer Data from Fabric Lakehouse to Local System: Step-by-Step Tutorial,2024-06-11,499,6,3,Jun
+23,Power BI  in Hindi- New DAX Function: Rownumber| How to get Sequence number in power bi visual,2024-06-10,168,7,2,Jun
+24,Power BI in Hindi- DAX Function: RANK - How It Differs from RANKX| How to break ties,2024-06-08,320,17,4,Jun
+25,Power BI Tutorial: Sync Slicers Across Different Tables and Pages| Sync different columns,2024-06-06,423,11,5,Jun
+26,Microsoft Fabric Time Machine: Time travel in Fabric Warehouse| Historical Data with Time Travel,2024-06-03,315,6,2,Jun
+27,Power BI On Demand (in Hindi) May 2024 Update: New Matrix Layouts | Repeating Row Headers,2024-06-01,200,9,7,Jun
+28,Power BI May 2024 Update: New Matrix Layouts | Repeating Row Headers| Power BI Concepts,2024-05-30,641,17,1,May
+29,Power BI Interview Questions: How to Identify and Remove Duplicates in Power BI | Q56- Join Failure,2024-05-29,812,21,2,May
+30,#shorts #microsoftfabric Want to learn Microsoft Fabric| Looking for Learning resource,2024-05-28,1217,10,0,May
+31,Microsoft Fabric Hindi- Integrate On-Premise Data using Data Pipelines: Gateway Update,2024-05-28,237,11,3,May
+32,"Microsoft Fabric Tutorial: Mastering Data Pipeline Semantic Model Refresh- when needed, how to use",2024-05-27,752,22,3,May
+33,"Power BI Visual Calculations with Rankx, What is Difference between measure and Visual Calculations",2024-05-22,370,15,0,May
+34,Microsoft Fabric Copilot Tutorial: How to use NLP in Data Flow Gen2| Unlock AI-Powered Data Analysis,2024-05-18,391,9,0,May
+35,Microsoft Fabric: How to Buy Microsoft Fabric Capacity(Azure Portal) & Upgrade Seamlessly,2024-05-13,651,10,9,May
+36,"Microsoft Fabric Cost Breakdown: Capacity, Storage, Transfer & Azure Calculator| F64| Pay as you Go",2024-05-10,1090,21,16,May
+37,Power BI Tutorial: Creating Clustered Stacked Bar Visuals with Calculation Groups and Measures,2024-05-08,500,9,1,May
+38,Latest Power BI April 2024 Update: New Visual – 100% Stacked Area Chart and Line enhancements,2024-05-06,295,5,2,May
+39,How to Migrate Custom Semantic Models in Microsoft Fabric Using ALM Toolkit| Data Migration Tutorial,2024-05-01,716,12,5,May
+40,Explore the New Microsoft Fabric Folders Feature | Organize Like Never Before,2024-04-29,306,9,2,Apr
+41,Now Integrate On-Premise Data with Microsoft Fabric Using Data Pipelines: Gateway Update,2024-04-15,783,12,22,Apr
+42,Microsoft Fabric: Row Level Security in Direct Lake Semantic Model| Secure Data no access to OneLake,2024-04-03,1390,28,6,Apr
+43,Microsoft Fabric: Maximize Data Performance: Delta Table Optimization with Fabric Notebooks,2024-03-18,774,13,5,Mar
+44,Power BI Interview Ace: Window Functions for Rolling Averages & Running Totals (Explained!)| Q55,2024-03-15,913,28,3,Mar
+45,Latest Power BI Feb 2024 Update: Elevate Your Reports with New Enhancements! Overlap Clustered Bars,2024-03-04,734,26,0,Mar
+46,"Next-Level Power BI Visual Calculations with Offset, Index, Rank, RowNumber| February 2024 Update",2024-02-29,943,24,1,Feb
+47,"Master Visual Calculations in Power BI 2024 Update RUNNINGSUM, RANGE, MOVINGAVERAGE,COLLAPSE, EXPAND",2024-02-27,1307,28,6,Feb
+48,Power BI: Percent Highlight/fill in Interactions using Data Label Customizations (December 2023),2024-02-19,413,18,5,Feb
+49,#powerbitutorial #powerbininterview Your Power BI Interview 2024! Top 100 Must-Know Questions,2024-02-16,210,10,0,Feb
+50,"Managing Microsoft Fabric Lakehouse using Spark SQL: Data Manipulation Insert, Update, Delete, Alter",2024-02-13,1349,18,13,Feb
+51,Power BI Interview Questions: How to append two tables in DAX? Create Common Dimensions| SQL Union,2024-02-12,584,16,0,Feb
+52,Power BI Interview Question #53: How to add Sequence Numbers in Power BI visual?,2024-02-10,1320,19,5,Feb
+53,Ace Your Power BI Interview: Find Top & Bottom Performers| How to get 2nd Topper without Rank-Filter,2024-02-08,515,22,6,Feb
+54,Power BI Interview Question: Cumulative Sales DAX Measure| Date table with/without Window Function,2024-02-05,623,28,0,Feb
+55,Power BI Interview: How to generate a series of odd numbers or even numbers with DAX & Power Query,2024-02-04,358,6,1,Feb
+56,Top 50 Power BI Interview Questions & 10 Advanced Use Case Tutorials 2024| Ultimate Power BI Guide,2024-01-28,16147,333,11,Jan
+57,"Mastering Pagination in Power BI Visuals using Window Functions: A Step-by-Step Guide, How to do it",2024-01-26,536,20,0,Jan
+58,Power BI Interview Question #49: How to Repeat Values? Repeating Values with REPT & CONCATENATEX,2024-01-23,522,18,0,Jan
+59,Power BI Tutorial: Finding Minimum Values in Multiple Columns & Measures| Power BI Interview Q&A #48,2024-01-19,893,22,2,Jan
+60,Power BI Data Label Customizations: Show Value & Percent on Stacked Visual- Enhance Data Analysis,2024-01-16,704,11,0,Jan
+61,Microsoft Fabric/Power BI Update Jan 2024: Creating Calculation Groups in Semantic Model on Service,2024-01-13,1981,24,12,Jan
+62,Power BI Date Tables: CALENDAR vs. CALENDARAUTO Explained | #47 Power BI Interview Q&A,2024-01-11,370,14,0,Jan
+63,Microsoft Fabric Event Streams: Real-Time Reflex Alerts with Raspberry Pi Simulator | Azure IoT Hub,2024-01-06,908,13,12,Jan
+64,Power BI Interview Prep: Explain the difference between GENERATE vs. CROSSJOIN| Q46 | #powerbi,2024-01-05,421,9,5,Jan
+65,Power BI December 2023 Updates: Master New Chart Styles for Column/bar charts| How to Sort Legend,2024-01-02,750,13,0,Jan
+66,Exploring Microsoft Fabric's Latest Feature: DeltaLake.Table M Function - Dec 2023 Update!,2023-12-17,664,7,1,Dec
+67,How To Rank In Power Bi: Rank Vs Rankx| Essential Guide For Power Bi Interviews| Question 45,2023-12-16,1470,26,7,Dec
+68,"Power BI Interview Prep: DAX Functions similar to SQL window functions- Offset, Index| Question 44",2023-12-10,613,23,5,Dec
+69,Unlock the Power of DAX Query View: A Deep Dive into Power BI's November 2023 Release #powerbi,2023-12-04,729,20,2,Dec
+70,Power BI Interview: Mastering FIRSTNONBLANKVALUE Function - DAX Deep Dive | Interview Question #43,2023-12-02,422,14,2,Dec
+71,Power BI Interview- Unraveling the Differences: Search vs. Find (Question 42) | Detailed Breakdown,2023-11-28,383,15,0,Nov
+72,Power BI Expertise Unveiled: Understanding RELATED vs RELATEDTABLE- Interview Question Series Part 2,2023-11-25,650,14,2,Nov
+73,Microsoft Fabric: Unlocking Power BI Potential: Direct Lake on Warehouse| Nov 2023 and GA Updates,2023-11-22,1312,16,19,Nov
+74,Power BI Nov 2023 Update: Unveiling New Card Reference Labels | Detailed Walkthrough,2023-11-20,1640,27,4,Nov
+75,2023 Power BI Update: Master the New Button Slicer - Full Tutorial & Features| Button with Image,2023-11-18,1317,34,4,Nov
+76,New Custom Deployment Pipelines in Power BI: Quick Guide on 2-10 Stages & Multi-Tasking Feature,2023-11-11,625,12,4,Nov
+77,Power Query Magic: Double Unpivot and Reshape Data for Analysis in Power BI| Unpivot Column Set,2023-11-08,547,19,2,Nov
+78,Master Table.Group in Power Query | Beginner's Guide to Grouping Data | Power BI Tutorial,2023-11-06,1013,8,5,Nov
+79,Unveiling Query Folding in Power BI: A Comprehensive Guide to Import vs. Direct Query Modes,2023-11-03,589,20,2,Nov
+80,#microsoftfabric:  Create calculation group on custom dataset in Microsoft Fabric| Tabular Editor 3,2023-11-01,911,10,4,Nov
+81,#powerbi  100+ Power BI Interview Questions & Answers| How to answer questions in Power BI Interview,2023-10-31,577,17,7,Oct
+82,Power Bi Hindi Tutorial| DAX Function PARALLELPERIOD| What value will it give without a filter,2023-10-29,267,5,3,Oct
+83,Power BI Power Query- Table.SelectRows|Tutorials for Beginners| How to filter rows in Power Query,2023-10-28,4460,20,0,Oct
+84,#powerbitutorial: Model explorer public preview with calculation group authoring| Measure Slicer,2023-10-25,412,7,0,Oct
+85,Power Bi Hindi Tutorial| DAX Function SAMEPERIODLASTYEAR| What value will it give without a filter,2023-10-22,195,3,0,Oct
+86,Power BI Hindi(हिंदी): OnDemand- Why Time Intelligence Fail 6 Savior Steps| Time Intelligence setup,2023-10-21,220,9,2,Oct
+87,Power BI Tutorial: Master Cross Join & Cartesian Product in Power Query 🌟 #powerbitutorial,2023-10-20,680,13,4,Oct
+88,Integrating Power BI & Synapse Data Science: Semantic Link in Microsoft Fabric | 2023 Tutorial,2023-10-18,1300,15,7,Oct
+89,Power BI Hindi Tutorial| DAX Function Dateadd and its limitation| Use Date as Dateadd,2023-10-16,424,14,2,Oct
+90,#microsoftfabric #SQL- How to create Slowly Changing Dimension (SCD)| Create SCD in Microsoft Fabric,2023-10-14,2479,24,12,Oct
+91,#microsoftfabric- How to Export data to external sources like Azure SQL and ADLS Gen2| Download Data,2023-10-11,1863,12,0,Oct
+92,Power Bi Hindi Tutorial | Opening And Closing Balance By Year| Learn Dax Functions #powerbihindi,2023-10-07,144,3,0,Oct
+93,Master Power BI: Axis Sorting with Field Parameters | X-Axis Sorting Made Easy #powerbitutorial,2023-10-02,1567,42,19,Oct
+94,#microsoftfabric- How to use Append data option of Data Flow Gen 2 and Data Pipeline| Incremental,2023-10-01,1907,19,5,Oct
+95,Power Bi Hindi Tutorial | Opening And Closing Balance By Quarter| Learn Dax Functions #powerbihindi,2023-09-24,227,6,5,Sep
+96,Master Power Query Templates in Microsoft Fabric: Export & Import Data Flow Gen 2 | 2023,2023-09-22,889,14,2,Sep
+97,Meet Microsoft Fabric Expert: Pawel Potasinski| What next we can expect from Microsoft Fabric,2023-09-18,459,8,2,Sep
+98,#powerbitutorial Power BI Dynamic Format Strings for Measures| Format without converting to text,2023-09-16,403,14,4,Sep
+99,#powerbitutorial Power BI- Measure driven data labels| How to use a different measure on label,2023-09-13,534,21,6,Sep
+100,#microsoftfabric #powerbi- Time Intelligence with Multi-Company Calendar/Date table| Duplicate Date,2023-09-05,655,11,4,Sep
+101,SQL Server Identity and Unique Identifier| SQL Tutorial for Beginners Part 21| Primary Key| NEWID,2023-09-02,375,10,2,Sep
+102,Power BI Interview Questions- What is the RELATED function and why does not work sometimes?,2023-08-30,461,13,6,Aug
+103,Power BI Interview Questions- What type of schema preferred for Power BI modeling| Why Star Schema,2023-08-30,475,10,0,Aug
+104,Power BI Interview Questions- How to sort the Month Year column correctly| What is Sort By Column,2023-08-30,340,7,2,Aug
+105,Power BI Interview Questions- How to display a trend with single value selection| Disconnected Table,2023-08-29,484,10,6,Aug
+106,Power BI Interview Questions- Is DATESMTD Minus 1 Month Using DATEADD(LMTD) save as PREVIOUSMONTH?,2023-08-28,584,15,2,Aug
+107,"Power BI Interview Questions- How to get a year before date, and date not in table| without DATEADD?",2023-08-26,331,10,0,Aug
+108,"Power BI Interview Questions- Minus 1-year using DATEADD, what date is expected for the first date",2023-08-26,411,7,0,Aug
+109,Power BI Interview Questions- What date range DATESMTD will use on card visual without filter/slicer,2023-08-26,399,7,0,Aug
+110,"Power BI Interview Questions-  Which functions can I use to get MTD, QTD, and YTD in Power BI?",2023-08-25,396,6,0,Aug
+111,"Power BI Interview Questions- What do mean by MTD, QTD, and YTD?",2023-08-25,344,6,0,Aug
+112,"Power BI Interview Questions- What are some best practices related to Time Intelligence, Date Table?",2023-08-25,464,7,2,Aug
+113,Power BI Interview Questions- Why Date table is so important in Power BI| Why do we need date table?,2023-08-24,408,5,0,Aug
+114,Power BI Interview Questions- Why grand total does not match the sum of the row total?,2023-08-24,461,6,0,Aug
+115,Power BI Interview Questions- A measure that will display the top 10 elements by Measure| TOPN,2023-08-24,491,9,0,Aug
+116,Power BI Interview Questions-What is the difference between skip and dense in Rank?,2023-08-23,418,4,0,Aug
+117,Power BI Interview Questions-Impact of extra visual column on RankX| Why Rank 1 when added city id,2023-08-23,396,5,0,Aug
+118,Power BI Interview Questions- What is Order default sort order in DAX/power bi RankX function?,2023-08-22,449,4,2,Aug
+119,Power BI Interview Questions- Difference in filtering data in CALCULATE with and without FILTER?,2023-08-22,546,9,0,Aug
+120,Power BI Interview Questions- What is the difference between Summarize and SummarizeColumns?,2023-08-22,1577,7,2,Aug
+121,Power BI Interview Questions- What is difference between calculate and calculatetable in Power BI?,2023-08-21,668,4,4,Aug
+122,Power BI Interview Questions- What is the difference between sumx and sum in power bi?,2023-08-21,545,3,0,Aug
+123,Power BI Interview Questions- How can we maintain/pass slicer values across bookmarks?,2023-08-21,1041,5,3,Aug
+124,Power BI Interview Questions- What is bookmarks in power bi? How to use bookmarks and buttons,2023-08-21,674,3,0,Aug
+125,Power BI Interview Questions- How to create Axis Slicer without using Field Parameters| Bookmarks,2023-08-21,778,9,3,Aug
+126,Power BI Interview Questions- What is Field Parameters? How to create a dynamic Axis using a slicer?,2023-08-20,789,14,2,Aug
+127,Power BI Interview Questions- What is Interactions in Power BI? How to stop filtering across visuals,2023-08-20,670,4,0,Aug
+128,Power BI Interview Questions- When conditional formatting become unavailable(Fx icon) in Power BI?,2023-08-20,718,5,0,Aug
+129,Power BI Interview Questions- What are the three format styles in Power BI conditional formatting?,2023-08-20,709,4,0,Aug
+130,Power BI Interview Questions- What is conditional formatting in Power BI?| How color background/font,2023-08-20,707,5,0,Aug
+131,Power BI Interview Questions- How to do a multi-column sort on a visual in Power BI,2023-08-20,772,8,0,Aug
+132,Power BI Interview Questions- What are the different types of visuals/charts used in Power BI?,2023-08-20,755,11,2,Aug
+133,"Power BI Interview Questions- What is the difference between Import, Direct Query, and Live mode?",2023-08-20,1202,14,2,Aug
+134,Calculated Column vs Measure in Power BI: Key Differences Explained | Power BI Interview/Job Prep,2023-08-20,1264,13,3,Aug
+135,Power BI Interview Questions- What is DAX|  What is Data Analysis Expressions,2023-08-20,1118,5,2,Aug
+136,Power BI Interview Questions- What is Power Query| What is Transform data in Power BI,2023-08-19,1014,9,0,Aug
+137,Power BI Interview Questions- Why do we need Power BI Desktop| What is the use of  Power BI Desktop,2023-08-19,1037,4,0,Aug
+138,Power BI Interview Questions- What is Power BI Desktop| Tell Something about Power BI Desktop,2023-08-19,1146,8,0,Aug
+139,Power BI Interview Questions- What are the components/elements/parts of Power BI?,2023-08-19,1435,9,0,Aug
+140,Power BI Interview Questions- What is Power BI| Tell Something about Power BI,2023-08-19,1462,13,0,Aug
+141,"Power BI Interview Questions- What Organization is looking for, in an individual- Beyond Power BI",2023-08-19,1685,15,4,Aug
+142,Power BI Interview Questions- Your Introduction| What you need to cover as part of your introduction,2023-08-19,2371,18,0,Aug
+143,Power BI Interview Questions- Introduction| Why I am creating videos on Job Questions and Answers,2023-08-19,4199,49,2,Aug
+144,#microsoftfabric: Data Wrangling Using Notebook and Pandas Dataframe vs Dataflow Gen 2- Power Query,2023-08-16,1036,10,0,Aug
+145,Power Bi Hindi Tutorial | Opening And Closing Balance By Month | Learn Dax Functions #powerbihindi,2023-08-14,419,7,4,Aug
+146,#microsoftfabric in Hindi| Microsoft Fabric OneLake Explorer| Append Data in CSV,2023-08-12,333,11,4,Aug
+147,#microsoftfabric: DataWarehousing without Identity Column| Prompt Engineering in ChatGPT to Get ETL,2023-08-08,910,17,3,Aug
+148,#microsoftfabric: Load on-premise SQL server data in Lakehouse using  Gateway and Dataflow Gen2,2023-08-06,598,20,3,Aug
+149,#powerbitutorial #powerbiforbeginners| Power BI- Smoothed and Leader lines,2023-08-04,185,11,0,Aug
+150,#microsoftfabric: Microsoft Fabric OneLake Explorer or also an Azure Data Lake Explorer| Shortcut,2023-08-01,729,15,0,Aug
+151,Microsoft Fabric Hindi: Shortcut within Fabric and for Azure Data Lake| File vs Table Shortcut,2023-07-30,588,11,2,Jul
+152,#microsoftfabric: Microsoft Fabric OneLake Explorer| Append Data in CSV| Simplified Python code,2023-07-29,836,14,6,Jul
+153,#powerbitutorial #powerbiforbeginners| Power BI: New Card Visual,2023-07-27,274,11,2,Jul
+154,Power BI - Edit Data Model in Power BI Service| Tenant and Workspace settings to edit model,2023-07-25,777,15,2,Jul
+155,#Shorts Complete Power BI Course | Full Video for Beginners| 11 Hours| #powerbi #powerbiforbeginners,2023-07-24,4488,138,2,Jul
+156,"Microsoft Fabric Hindi: Create Date table Dataflow Gen2, for Lakehouse, Warehouse| Time Intelligence",2023-07-23,557,19,4,Jul
+157,#microsoftfabric: Use Token Authentication to load local SQL server to #lakehouse using Python code,2023-07-22,814,17,10,Jul
+158,Microsoft Fabric: Use Token Authentication to load local SQL server to Warehouse using Python code,2023-07-13,1817,19,6,Jul
+159,Microsoft Fabric: Load on-premise data file to Lakehouse using on-premise Python using OAuth Token,2023-07-12,1687,19,22,Jul
+160,Microsoft Fabric: Load incremental data from local SQL server to Warehouse using on-premise Python,2023-07-10,1299,17,4,Jul
+161,Microsoft Fabric in Hindi:  Do k-Means clustering in spark; analyze in Power BI | Machine Learning,2023-07-09,508,8,4,Jul
+162,Microsoft Fabric Hindi: How to load data in Lakehouse using Spark; Python using the notebook,2023-07-08,788,22,2,Jul
+163,"Microsoft Fabric: Load local SQL server data in Warehouse using Python, Pandas, and sqlalchemy",2023-07-07,1837,20,18,Jul
+164,Microsoft Fabric: How to append only Incremental data using Data Pipeline in Lakehouse,2023-07-05,5211,76,24,Jul
+165,Microsoft Fabric: Load Snowflake DB Data to Lakehouse & Warehouse simultaneously with Dataflow Gen2,2023-07-03,1803,25,0,Jul
+166,Microsoft Fabric in Hindi: How to load data in Warehouse using Data Pipeline | End to End Scenario,2023-07-01,721,17,3,Jul
+167,Microsoft Fabric: Load Azure SQL Data to Lakehouse & Warehouse simultaneously with Dataflow Gen2,2023-06-28,1514,16,3,Jun
+168,Microsoft Fabric: Power Query Transformations in Dataflow Gen2| Warehouse Destination | 2023 Update,2023-06-26,1279,18,0,Jun
+169,Microsoft Fabric in Hindi: How to load data in Warehouse using Dataflow Gen 2 | End to End Scenario,2023-06-24,1007,17,6,Jun
+170,Everything You Need to Know About Microsoft Fabric in 29 Videos| Ultimate Guide to Microsoft Fabric,2023-06-21,2710,149,22,Jun
+171,Microsoft Fabric in Hindi: How to load data in Lakehouse using Dataflow Gen 2 | End to End Scenario,2023-06-21,1087,19,2,Jun
+172,Microsoft Fabric: Load local SQL server data in Lakehouse using on-premise Gateway| Dataflow Gen2,2023-06-20,4526,38,25,Jun
+173,"Microsoft Fabric: Incremental ETL for Warehouse using Data Pipeline, SQL Procedure",2023-06-19,4321,50,12,Jun
+174,Microsoft Fabric in Hindi: How to load data in Lakehouse using Data Pipeline | End to End Scenario,2023-06-18,2056,25,11,Jun
+175,"Microsoft Fabric: Incremental ETL for Warehouse using Dataflow Gen 2, SQL Procedure, Data Pipeline",2023-06-17,6853,67,41,Jun
+176,Merge Excel Sheets in Power BI: Step-by-Step Guide | Power BI Advanced Tutorial 2023,2023-06-14,2951,22,4,Jun
+177,Microsoft Fabric: Import Azure SQL Data to Warehouse | Multiple tables  using Pipeline,2023-06-13,2090,21,7,Jun
+178,Power BI - New DAX Function: Rownumber,2023-06-12,2907,29,16,Jun
+179,Microsoft Fabric: Shortcut within Fabric and for Azure Data Lake| File vs Table Shortcut,2023-06-11,3071,24,21,Jun
+180,Microsoft Fabric: What are the options to load local files in  Lakehouse,2023-06-08,5215,51,13,Jun
+181,"#shorts #microsoftfabric Want to Learn Microsoft Fabric, Get in details tutorials on Fabric",2023-06-07,299,14,0,Jun
+182,Microsoft Fabric: How to load data in Lakehouse using Data Pipeline | End to End Scenario,2023-06-07,4334,37,17,Jun
+183,"Microsoft Fabric: Create Date table Dataflow Gen2, use in Lakehouse, Warehouse| Time Intelligence",2023-06-06,3759,37,19,Jun
+184,Microsoft Fabric:  Do k-Means clustering in spark; analyze in Power BI | Integrated Machine Learning,2023-06-05,2137,31,7,Jun
+185,Live Microsoft Fabric Hindi Workshop- What is Microsoft Fabric,2023-06-04,992,37,4,Jun
+186,Microsoft Fabric: How to load data in Lakehouse using Spark; Python using the notebook,2023-06-04,8316,88,36,Jun
+187,"Microsoft Fabric in Hindi: Create Workspace, Lakehouse, Warehouse",2023-06-02,3036,47,20,Jun
+188,Microsoft Fabric: How to load data in Warehouse using Data Pipeline | End to End Scenario,2023-06-02,8102,84,38,Jun
+189,"Introduction to Microsoft Fabric in Hindi | What it is, Why Use, Who Should, When and How to use",2023-05-30,11078,200,25,May
+190,Microsoft Fabric: Load data in Warehouse- Dataflow Gen2| Note- Warehouse Destination available now,2023-05-30,6096,50,24,May
+191,Microsoft Fabric: How to load data in Lakehouse using Dataflow Gen2| End to End Flow,2023-05-29,14241,123,64,May
+192,"Microsoft Fabric: Various Components| Microsoft Fabric Create Workspace, Lakehouse, Warehouse",2023-05-29,8902,79,22,May
+193,"#MicrosoftFabric- What it is, Why Use, Who Should, When and How to use",2023-05-29,15636,144,26,May
+194,Unlock Microsoft Fabric on Power BI: A Complete Step-by-Step Guide to Starting Your Free Trial,2023-05-24,22649,210,19,May
+195,Microsoft Fabric: A Brief Introduction| What is Microsoft Fabric| One Lake| Integrated Analytics,2023-05-24,51179,413,15,May
+196,#shorts #microsoftfabric #learnpowerbi Enable Microsoft Fabric the next generation analytics,2023-05-24,597,20,0,May
+197,Power BI- How to use field parameters with power bi dataset live connection.,2023-05-22,1411,18,0,May
+198,#shorts #learnpowerbi Power BI: New Dynamic Format Strings for Measures,2023-05-22,143,4,2,May
+199,Free Live Power BI(in Hindi) Part2| Quick Start Microsoft Power BI for beginners| Learn Power BI,2023-05-21,430,14,4,May
+200,Free Live Power BI(in Hindi)| Quick Start Microsoft Power BI for beginners| Learn Power BI,2023-05-20,430,13,2,May
+201,"Power BI Tutorial in Hindi Start of Week, End of Week, WeekNum, Year week",2023-05-20,264,6,6,May
+202,Power BI Power Query- Table.Skip| Power BI Tutorials for Beginners,2023-05-18,554,12,0,May
+203,#shorts #learnpowerbi Wondering how to get custom totals blank/additional rows in power bi Check Out,2023-05-17,282,16,0,May
+204,Power BI - New DAX Function: RANK - How It Differs from RANKX,2023-05-16,1867,22,4,May
+205,"Power BI Power Query- Table.SingleRow, and Table.Repeat| Power BI Tutorials for Beginners",2023-05-15,383,6,2,May
+206,#shorts #learnpowerbi Power BI- How about field parameter with power bi dataset live connection?,2023-05-15,589,15,0,May
+207,Power BI Hindi(हिंदी): On Demand- What is Query Folding | How to check Query folding in Power Query,2023-05-14,1489,50,18,May
+208,"Power BI Tutorial in Hindi StartOfYear, EndofYear, EOMONTH for Start/end of year| Get FY Start/END",2023-05-13,212,4,5,May
+209,Power BI Time Intelligence- Show month names instead of Current Month Vs Last Month,2023-05-11,573,11,0,May
+210,#shorts #learnpowerbi Power BI why Rule Based conditional formatting do not work with percent column,2023-05-10,2972,64,2,May
+211,#shorts #learnpowerbi Power BI Dataset Direct Query| How to Change Live Connection to Direct Query,2023-05-09,824,33,0,May
+212,How to append Excel sheets Power BI | Power Query Append Excel sheets | Power BI Tutorials for Free,2023-05-08,702,12,0,May
+213,"#shorts #learnpowerbi Power BI, Power Query Unpivot Data| Unpivot Other columns",2023-05-08,1218,38,0,May
+214,Power BI Power Query- Table.TransformColumns| A must learn |Power BI Tutorials for Beginners,2023-05-07,789,8,0,May
+215,How to selectively hide rows in Power BI | isinscope | Power BI Tutorials,2023-05-01,3002,17,10,May
+216,"#shorts #powerbi know your data better- Column Profile, Distribution and Quality| Power Query",2023-04-28,1607,24,1,Apr
+217,Power Query- Table.TransformColumnTypes | Handle the US/UK Date format,2023-04-24,1161,6,3,Apr
+218,Everything You Need to Know About Microsoft Fabric in 29 Videos| Ultimate Guide to Microsoft Fabric,2023-04-19,698,14,0,Apr
+219,"StartofQuarter, EndOfQuarter in Power BI | Power BI Tutorial in Hindi | Power BI in Hindi",2023-04-15,87,5,0,Apr
+220,Abstract Thesis: How to Switch Subtotal and Grand Total in Power BI | Power BI Tutorials| ISINSCOPE,2023-04-14,2167,16,4,Apr
+221,Table.TransformColumnNames | Power Query Tutorial| Power BI Tutorials for Beginners | Amit Chandak,2023-04-11,316,8,2,Apr
+222,Power BI Hindi(हिंदी): AI Revolution: What ChatGPT/WordTune has for us,2023-04-09,155,10,4,Apr
+223,How to Connect Google Sheet with Power BI | Google Sheets to Power BI | Power BI Tutorials for Free,2023-04-07,775,10,4,Apr
+224,Cursors in SQL | SQL Tutorial for Beginners Part 20 | Cursors in SQL Server Example | SQL Tutorial,2023-04-06,396,13,3,Apr
+225,Table.ExpandRecordColumn | Power Query Tutorials | Power BI Tutorials for Beginners | Amit Chandak,2023-04-04,583,9,12,Apr
+226,#shorts #learnpowerbi Power BI - Split by Delimiter using Power Query,2023-04-04,607,16,0,Apr
+227,How to Deal with Double Headers in Power BI | Free Power BI Tutorials| Abstract Thesis Series,2023-04-03,517,9,0,Apr
+228,#shorts Ultimate Free Power BI resources/Videos #learnpowerbi,2023-04-03,234,7,0,Apr
+229,"Power BI(हिंदी) DAX Functions: StartOfMonth, EndOfMonth, EoMonth",2023-04-02,392,9,4,Apr
+230,#shorts #learnpowerbi Power BI why Time Intelligence functions fails,2023-04-01,1203,53,0,Apr
+231,#shorts #learnpowerbi Power BI why I am not getting conditional formatting icon,2023-03-30,868,23,2,Mar
+232,#shorts #learnpowerbi Power BI - How to Change Connection Details,2023-03-29,606,17,2,Mar
+233,"#shorts #learnpowerbi Power BI how to show/hide subtotal, grand total| Matrix Per Row Level",2023-03-28,4720,47,12,Mar
+234,Power BI Power Query Tutorial Table.ExpandRecordColumn,2023-03-27,2392,11,2,Mar
+235,"Power BI (हिंदी)-  Show Trend with Single selection, Independent Table",2023-03-26,151,9,0,Mar
+236,"#shorts #learnpowerbi Power BI Switch Values on Rows, Measure on Rows",2023-03-25,566,18,0,Mar
+237,Power BI(हिंदी) DAX Functions Tutorial: Learn DATEVALUE and TIMEVALUE,2023-03-25,414,11,6,Mar
+238,Power BI Tutorial Reorder Columns| Power Query Table.ReorderColumns,2023-03-24,2863,4,2,Mar
+239,SQL Tutorial for Beginners19- Anonymous Block/Procedure,2023-03-22,300,9,2,Mar
+240,"Power BI March 2023 Apply all Slicer, Clear All Slicer Buttons",2023-03-21,2231,14,4,Mar
+241,#shorts #learnpowerbi Power BI design Patterns- Independent Table #dax| Disconnected Table #powerbi,2023-03-21,296,12,0,Mar
+242,Learn Power BI Design patterns and tricks - Independent Table| Disconnected Table,2023-03-20,260,15,0,Mar
+243,"Master Power BI in 3 Weekends: A Beginner's Course, Special Offer",2023-03-20,6098,23,2,Mar
+244,Power BI March 2023 Visual On-Object Interaction Public Preview,2023-03-20,222,7,0,Mar
+245,"Power BI (हिंदी) March 2023- Visual on-Object, Apply all, Clear All",2023-03-19,199,14,2,Mar
+246,#shorts #learnpowerbi Power BI patterns and tricks - Independent Table,2023-03-18,168,18,0,Mar
+247,Power BI Power Query Tutorial Table.ExpandListColumn,2023-03-17,1183,9,0,Mar
+248,Mastering Power BI and Power Query- Sub Category Rank and Index,2023-03-15,1393,16,7,Mar
+249,"Power BI Power Query Tutorial Table.Unpivot, Table.UnpivotOtherColumns",2023-03-14,525,8,2,Mar
+250,"Advanced Row Level Security(RLS) in Power BI: Secure Data using UserPrincipalName, How to handle ALL",2023-03-13,3957,55,20,Mar
+251,Power BI - Everything You Need to Know About Direct Query (हिंदी),2023-03-12,1592,160,14,Mar
+252,Power BI(हिंदी) DAX functions: Convert and ABS,2023-03-11,217,10,1,Mar
+253,#shorts #learnpowerbi #powerquery #powerbi #dax Learn Power BI,2023-03-11,569,31,4,Mar
+254,"SQL Tutorial for Beginners18- Create, Alter and Drop Function",2023-03-09,275,9,0,Mar
+255,"Master Power BI for Beginners, Learn Power Query Table.Pivot",2023-03-08,194,9,0,Mar
+256,"SQL Tutorial 17- Create, Alter and Drop Procedure",2023-03-07,242,7,0,Mar
+257,"Power BI ABC Analysis using Window function, Dynamic Segmentation",2023-03-06,4312,67,21,Mar
+258,Power BI(हिंदी) Window: Dynamic TOPN. Rank - Why and Why Not,2023-03-04,327,13,3,Mar
+259,"Learn Power BI 217: Table HasColumns, PrefixColumns, DuplicateColumn",2023-03-03,292,11,0,Mar
+260,Learn Power BI: Window as Rank- why and Why not,2023-03-02,288,10,2,Mar
+261,"Learn Power BI 217: Power Query Table.ContainsAll, Table.ContainsAny",2023-02-28,366,14,4,Feb
+262,"Power BI Window: Pareto Again, 80% of sales, Order by on Measure",2023-02-27,1830,30,11,Feb
+263,"How to Start Power BI Journey, What to learn and Learning Resources",2023-02-26,613,35,2,Feb
+264,"Power BI- How to use DAX Functions Offset, Window, Index",2023-02-26,1498,53,7,Feb
+265,"Power BI(हिंदी) Window: Rolling, Cumulative , MTD, QTD, YTD, WTD",2023-02-25,694,21,10,Feb
+266,"SQL Tutorial 16- Window Functions- Lead, Lag, First_value, Last_value",2023-02-24,258,2,0,Feb
+267,Learn Power BI: Continuous Actual and Target line,2023-02-23,375,12,4,Feb
+268,Learn Power BI 216: Power Query Table.Contains,2023-02-22,683,15,1,Feb
+269,"SQL Tutorial 15- Window Functions - RANK, DENSE_RANK, ROW_NUMBER",2023-02-21,286,13,2,Feb
+270,Learn Power BI: Rule Based Conditional formatting based on string fields,2023-02-20,1141,13,2,Feb
+271,"Power BI(हिंदी) Offset Compare Categories, Time Intelligence MOM, YOY",2023-02-19,319,12,16,Feb
+272,"Power BI(हिंदी)- Install On-Premise Gateway, configure it on service",2023-02-18,748,24,29,Feb
+273,Learn Power BI 216: Power Query Table.Transpose,2023-02-17,284,12,3,Feb
+274,"Power BI: Dynamic TOPN: Window, Field parameters, calculation groups",2023-02-15,1012,23,22,Feb
+275,"Learn Power BI 215: Power Query Table RemoveFirstN, RemoveLastN",2023-02-13,279,11,2,Feb
+276,Learn Power BI(हिंदी) 58 Index: Top/Bottom Performer by name and value,2023-02-12,300,9,5,Feb
+277,Learn Power BI: Dynamic TOPN using TOPN/Window and Numeric parameter,2023-02-11,1212,31,20,Feb
+278,"SQL Tutorial 14: Window Functions Part 1- Sum Over, Partition By",2023-02-09,470,8,1,Feb
+279,Learn Power BI 214: Power Query Table.ReplaceRows,2023-02-08,435,7,6,Feb
+280,"SQL Tutorial 13: TOPN, Percent of SubTotal/Total Avg of Sum and more",2023-02-07,249,5,10,Feb
+281,Learn Power BI: Change Set of Measures based on Axis: Field Parameters,2023-02-06,600,20,8,Feb
+282,"Power BI(हिंदी) Row Level Security(RLS), handle ALL, userprincipalname",2023-02-05,1068,34,12,Feb
+283,"Power BI(हिंदी): HR Analytics, Userelationship, Active employee",2023-02-04,379,13,5,Feb
+284,SQL Tutorial 12: Create Index(Basic) in SQL Server,2023-02-03,355,11,4,Feb
+285,Learn Power BI: DAX- Window and Index as Offset ? AT132,2023-02-02,248,9,0,Feb
+286,Learn Power BI 213: Power Query Table RemoveRows RemoveMatchingRows,2023-02-01,1744,17,4,Feb
+287,"SQL Tutorial 11: In, Like, Any, All Operators",2023-01-31,273,5,2,Jan
+288,Learn Power BI: Power Query Conditional Replace Value AT131,2023-01-30,1191,14,0,Jan
+289,"Learn Power BI in Hindi (हिंदी) 57: SQRT, SQRTPI",2023-01-29,142,2,0,Jan
+290,"SQL Tutorial 10: Union, Union All, Intersect, and Except/Minus",2023-01-28,377,10,4,Jan
+291,"Learn Power BI 212: Power Query Table SelectColumns, RemoveColumns",2023-01-27,1314,23,0,Jan
+292,SQL Tutorial 9: CTE- Common Table expression(With Clause),2023-01-25,373,11,3,Jan
+293,Learn Power BI: Power Query create Star Schema from Single Table AT130,2023-01-24,1325,13,4,Jan
+294,"Learn Power BI 211: Power Query Table PromoteHeaders, DemoteHeaders",2023-01-23,501,11,2,Jan
+295,"SQL Tutorial 8: Sub Query, From Clause Subquery(Inline Query)",2023-01-21,616,22,4,Jan
+296,"Learn Power BI in Hindi (हिंदी) 56: pi, power, and Trunc",2023-01-20,152,5,0,Jan
+297,"SQL Tutorial 7: Cross Join, Self Join and Coalesce",2023-01-18,345,12,0,Jan
+298,Learn Power BI: Custom(Non Standard) Period Till Date (PTD)- AT 129,2023-01-17,260,12,7,Jan
+299,Learn Power BI in Hindi (हिंदी) 55: LOG and LOG10,2023-01-16,149,4,5,Jan
+300,"SQL Tutorial 6, Select with Group By and Having plus Where",2023-01-13,336,12,14,Jan
+301,"Learn Power BI 210: Power Query Table MatchesAnyRows, MatchesAllRows",2023-01-12,310,8,0,Jan
+302,"SQL Tutorial 5- Joins- Inner, Left, Right, Full Outer",2023-01-11,431,8,4,Jan
+303,Power BI Index: Top/Bottom Performer by name and value: AT 128,2023-01-10,771,19,6,Jan
+304,"SQL Tutorial 4- Where Clause, Copy Table, Import Data",2023-01-09,527,18,22,Jan
+305,"Power BI(हिंदी): Power Bi Service, Dataflow, Dataset, Live Connection",2023-01-08,711,31,8,Jan
+306,Microsoft Power BI Tutorial For Beginners✨ | Power BI Full Course 2023 | Learn Power BI,2023-01-07,178732,3560,225,Jan
+307,Power BI(हिंदी) Field Parameters- Dynamic Axis/Dimension & Measures,2023-01-06,445,15,9,Jan
+308,Learn Power BI Beginners 209: Power Query Search Table Table.FindText,2023-01-05,413,7,7,Jan
+309,"SQL Tutorial 3- DDL/DML: Update, Delete and Truncate Table",2023-01-04,483,12,7,Jan
+310,"Power BI Window: Pareto Analysis, TOP N% with Others: AT 127",2023-01-03,1100,16,10,Jan
+311,"SQL Tutorial 2- DDL/DML, Data Type, Create, Insert, Primary Key",2023-01-02,989,21,13,Jan
+312,"Power BI Window: Pareto Analysis, 80% of sales, Order by on Measure",2023-01-01,1836,51,15,Jan
+313,SQL Tutorial for Beginners: Comprehensive Guide to Databases & SQL Server Setup| 22-video series!,2023-01-01,5617,203,12,Jan
+314,सीखे Tableau हिंदी में - Groups अध्याय 20,2022-12-31,113,1,2,Dec
+315,Learn Tableau: How to create Group- Part  23,2022-12-30,42,2,0,Dec
+316,"Power BI Parameters- Numeric , Dynamic TOPN- OnDemand (हिंदी) Part 2",2022-12-26,592,14,0,Dec
+317,"Learn Power BI in Hindi (हिंदी) 54: DAX LN, EXP, FACT(factorial)",2022-12-24,161,12,0,Dec
+318,Learn Power BI Beginners 208: Power Query Table.AlternateRows,2022-12-21,163,13,2,Dec
+319,"Power BI Window: Rolling, Cumulative (Running), MTD, QTD, YTD, WTD",2022-12-20,2370,30,2,Dec
+320,"Power BI Offset Compare Categories, Time Intelligence MOM, QOQ, YOY",2022-12-19,1630,32,6,Dec
+321,"Power BI Row level data, Don't summarized - OnDemand (हिंदी) Part 1",2022-12-18,614,24,7,Dec
+322,"Learn Power BI in Hindi (हिंदी) 53: DAX LCM, GCD",2022-12-17,120,7,0,Dec
+323,Learn Power BI Beginners 207: Power Query Table.Schema,2022-12-16,674,20,3,Dec
+324,सीखे Tableau हिंदी में - Level of Details(LOD) Fixed अध्याय 19,2022-12-15,168,8,2,Dec
+325,सीखे Tableau हिंदी में - Level of Details(LOD) Exclude अध्याय 18,2022-12-15,244,12,2,Dec
+326,Power BI Beginners 206: Power Query Analyse Table.Profile,2022-12-15,621,18,3,Dec
+327,"Power BI Quick Look at Dax Function Offset, Window, Index- AT 123",2022-12-14,1111,30,6,Dec
+328,Master HR Analytics in Power BI: Employee Tenure Analysis & Userelationship | Active Employees,2022-12-13,3586,62,29,Dec
+329,"Power BI Beginners 205: Power Query Table.IsEmpty, Table.InsertRows",2022-12-12,1006,12,2,Dec
+330,"Power BI हिंदी में 52: DAX ODD, EVEN, ISODD, ISEVEN",2022-12-10,149,13,2,Dec
+331,Power BI Matrix as Calendar Display & Conditional formatting: AT 121,2022-12-08,2512,30,0,Dec
+332,#shorts #powerbi formatted p&l with blank rows and custom calculation,2022-12-07,271,10,0,Dec
+333,Power BI Beginners 205: Power Query Table.CombineColumnsToRecord,2022-12-07,380,9,2,Dec
+334,Power BI Profit & Loss Statement: Create & Format P&L Reports with Table Visuals | 2023 Tutorial,2022-12-05,3441,19,5,Dec
+335,Learn Tableau: LOD(Level of Details) Fixed - Part 22,2022-12-04,93,5,0,Dec
+336,"Power BI हिंदी में 51: Power BI DAX MOD, QUOTIENT",2022-12-03,264,11,5,Dec
+337,Power BI Beginners 204: what is Power Query Table.CombineColumns,2022-12-02,488,13,0,Dec
+338,"Power BI Unsynchronized Small Multiples, Calculation Groups: AT 119",2022-12-01,331,6,2,Dec
+339,AT 118: Power BI Create dynamic slicers using field parameters,2022-11-30,2494,32,23,Nov
+340,Learn Power BI Beginners 203: Power Query Append- Table.Combine,2022-11-29,271,4,2,Nov
+341,Power BI Formatted Profit & Loss Statements | Power BI Balance Sheets | Power BI Custom Sub Total,2022-11-28,16309,219,14,Nov
+342,"Power BI हिंदी में 50: Power BI DAX RAND, RANDBETWEEN",2022-11-26,356,9,2,Nov
+343,Abstract Thesis 116: Power Query Across Table calculated column,2022-11-24,539,13,0,Nov
+344,Power BI Beginners 202: what is Power Query Table.AddRankColumn,2022-11-23,470,7,0,Nov
+345,Power BI Beginners 201: what is Power Query Table.AddJoinColumn,2022-11-21,638,11,4,Nov
+346,"Power BI हिंदी में 49: Power BI ROUND, ROUNDUP, ROUNDDOWN",2022-11-19,285,7,2,Nov
+347,Agile in Analytics Project- Planning Business Intelligence Project,2022-11-17,581,22,0,Nov
+348,Power BI Beginners 200: Power Query Table.AddFuzzyClusterColumn,2022-11-17,439,10,4,Nov
+349,"Abstract Thesis 115: Power BI Customers to Retain, Scatter Quadrant",2022-11-15,480,11,0,Nov
+350,Power BI Beginners 199: Power Query Table.AddIndexColumn,2022-11-14,598,5,0,Nov
+351,Learn Tableau With Tableau Public 21: LOD Include,2022-11-13,148,2,0,Nov
+352,How to get help on Power BI. Advantage of helping on Community,2022-11-13,1423,28,5,Nov
+353,"Power BI हिंदी में 48: Power BI FIRSTNONBLANKVALUE, LASTNONBLANKVALUE",2022-11-12,290,6,0,Nov
+354,Power BI Beginners 198: Power Query Table.AddColumn,2022-11-11,1354,10,0,Nov
+355,Abstract Thesis 114: Power BI Workday vs Last Workday,2022-11-10,214,5,2,Nov
+356,Power BI Beginners 197: Power Query Table.ToRows,2022-11-09,369,4,0,Nov
+357,Abstract Thesis 113: Power BI Partial Interactions- Modelling Solution,2022-11-08,1081,7,0,Nov
+358,Power BI Beginners 196: Power Query Table.ToRecords,2022-11-07,268,2,0,Nov
+359,Tableau Vs Power BI- 30: Axis Slicer- Parameters vs Field Parameters,2022-11-06,335,4,0,Nov
+360,#shorts #powerbi: power bi quick measure suggestions- Settings,2022-11-05,710,21,1,Nov
+361,"सीखें Power BI हिंदी में- अध्याय 47: Power BI DAX- EXACT, REPT, TRIM",2022-11-05,137,2,0,Nov
+362,"Abstract Thesis 112: Power BI Cohort Analysis, Customer Retention %",2022-11-03,1244,20,38,Nov
+363,Power BI Beginners 195: Power Query Table.ToList,2022-11-02,829,11,0,Nov
+364,Abstract Thesis 111: Power BI Modelling- Unselected values as others,2022-11-01,435,8,3,Nov
+365,Power BI Beginners 194: Power Query Table.ToColumns,2022-10-31,354,9,3,Oct
+366,Tableau Vs Power BI- Chapter 29: Context Filters,2022-10-30,566,13,5,Oct
+367,सीखें Power BI हिंदी में- अध्याय 46: Power BI DAX- Format,2022-10-29,130,4,0,Oct
+368,Power BI Beginners 193: Power Query Table.Distinct (Remove Duplicates),2022-10-28,1343,7,9,Oct
+369,"Power BI Beginners 192: Power Query Table.Min, Table.MinN",2022-10-26,608,6,0,Oct
+370,Abstract Thesis 110: Power BI- Text Part slicer to filter/search text,2022-10-24,3776,34,11,Oct
+371,सीखें Power BI हिंदी में- अध्याय 45: Power BI DAX- UNICHAR - Use for Conditional Icon formatting,2022-10-22,165,6,4,Oct
+372,"Power BI Beginners 191: Power Query Table.Max, Table.MaxN",2022-10-20,789,11,5,Oct
+373,Abstract Thesis 109: Power BI- TOPN with Others,2022-10-19,1847,14,6,Oct
+374,"Power BI Beginners 190: Power Query Table.Last, Table.LastN",2022-10-18,344,8,2,Oct
+375,Abstract Thesis 108: Power BI- Power Query Vs DAX- Conditional Max with a set of columns,2022-10-17,706,4,0,Oct
+376,सीखें Power BI हिंदी में- अध्याय 44: Power BI DAX- HASONEFILTER,2022-10-15,250,10,7,Oct
+377,Abstract Thesis 107: Power BI Dax Measure- Allocate data between Range,2022-10-14,1771,19,4,Oct
+378,"Power BI Beginners 189: Power Query Table.First, Table.FirstN, Table.FirstValue",2022-10-13,622,12,2,Oct
+379,"Abstract Thesis 106: Power BI Incremental Refresh Pro, Premium Deployment pipeline",2022-10-11,763,18,2,Oct
+380,"Power BI Beginners 188: Power Query Table.ReverseRows, Table.RowCount",2022-10-10,399,9,0,Oct
+381,सीखें Power BI हिंदी में- अध्याय 43: DAX- HASONEVALUE,2022-10-08,300,8,2,Oct
+382,Abstract Thesis 105: Power BI- Power Apps Better Together,2022-10-07,331,7,2,Oct
+383,"Power BI Beginners 187: Power Query Table ColumnCount, ColumnNames, ColumnsOfType",2022-10-06,688,8,0,Oct
+384,Power BI How ALL Works: different ways to use -Abstract Thesis 104,2022-10-04,387,6,2,Oct
+385,Power BI Tutorial Series for Beginners 186: Power Query Table.Column,2022-10-03,194,5,0,Oct
+386,सीखें Power BI हिंदी में- अध्याय 42: DAX- ISINSCOPE,2022-10-01,299,9,4,Oct
+387,"AT 103: Power BI Install On-Premise Gateway, configure it on service",2022-09-30,629,10,4,Sep
+388,Power BI Tutorial Series for Beginners 185: Power Query Table.FromPartitions,2022-09-29,212,6,2,Sep
+389,"#shorts #powerbi where is my map, Setting you can do. power bi map",2022-09-27,10123,298,27,Sep
+390,Abstract Thesis 102: Power BI Label Conditional formatting,2022-09-27,129,5,0,Sep
+391,Power BI Tutorial Series for Beginners 184: Power Query Table.FromValue,2022-09-26,502,8,3,Sep
+392,सीखें Power BI हिंदी में- अध्याय 41: DAX- ISFILTERED,2022-09-24,233,13,10,Sep
+393,Power BI Tutorial Series for Beginners 183: Power Query Table.FromColumns,2022-09-23,340,10,0,Sep
+394,Power BI Drill Through when Userelationship is used: AT 101,2022-09-22,959,12,2,Sep
+395,Power BI Tutorial Series for Beginners 182: Power Query Table.FromRows,2022-09-21,558,6,2,Sep
+396,Power BI Tutorial Series for Beginners 181: Power Query Table.FromRecords,2022-09-20,431,8,0,Sep
+397,Abstract Thesis 100: Create Azure DataBricks Account and Analyze with Power BI,2022-09-19,783,9,3,Sep
+398,सीखें Power BI हिंदी में- अध्याय 40: DAX- Upper and Lower,2022-09-18,149,4,0,Sep
+399,Power BI Tutorial Series for Beginners 180: Power Query Table.FromList,2022-09-14,799,12,4,Sep
+400,Abstract Thesis 99: Create Azure SQL Account and Analyze with Power BI,2022-09-13,314,5,0,Sep
+401,Power BI Tutorial Series for Beginners 179: Power Query #table,2022-09-12,1190,14,7,Sep
+402,सीखें Power BI हिंदी में- अध्याय 39: DAX- Replace and Substitute,2022-09-10,222,2,0,Sep
+403,Power BI Tutorial Series for Beginners 178: Power Query- List.DateTimes,2022-09-09,214,4,0,Sep
+404,"Power BI DAX- Earlier, I should have known Earlier- Abstract Thesis 98",2022-09-08,2309,11,2,Sep
+405,Power BI Tutorial Series for Beginners 177: Power Query Powerhouse- List.Transform,2022-09-07,565,6,2,Sep
+406,Abstract Thesis 97: Power BI- Power Query: When I asked you to create common tables,2022-09-06,583,6,0,Sep
+407,Power BI Tutorial Series for Beginners 176: Power Query- List.AnyTrue,2022-09-05,211,2,2,Sep
+408,सीखे Power BI हिंदी में- अध्याय 38: DAX- CONCATENATE and CONCATENATEX,2022-09-03,313,9,4,Sep
+409,Power BI Tutorial Series for Beginners 175: Power Query- List.AllTrue,2022-09-02,593,6,6,Sep
+410,Power BI- DAX: When I asked you to create common(Bridge)  tables,2022-09-01,1093,15,4,Sep
+411,Power BI Tutorial Series for Beginners 174: Power Query- List.Average,2022-08-31,663,4,0,Aug
+412,Abstract Thesis 95: Power BI- DAX: Get all dates between the Start and End date,2022-08-30,558,8,0,Aug
+413,Power BI Tutorial Series for Beginners 173: Power Query- List.Mode,2022-08-29,330,12,2,Aug
+414,"सीखे Power BI हिंदी में- अध्याय 37: DAX Functions- LEFT, MID, RIGHT",2022-08-27,369,3,0,Aug
+415,Power BI Tutorial Series for Beginners 172: Power Query- List.Median,2022-08-26,641,8,0,Aug
+416,Abstract Thesis 94: Power BI- Customer Purchasing in each of the last 3 months,2022-08-25,168,7,0,Aug
+417,Power BI Tutorial Series for Beginners 171: Power Query- List.Durations,2022-08-24,200,7,0,Aug
+418,Abstract Thesis 93: Power BI- Get Azure SQL DB and Configure it on Power BI,2022-08-23,206,6,0,Aug
+419,Power BI Tutorial Series for Beginners 170: Power Query- List.NonNullCount,2022-08-22,273,7,4,Aug
+420,सीखे Power BI हिंदी में- अध्याय 36: CONTAINSSTRING & CONTAINSSTRINGEXACT,2022-08-20,208,8,6,Aug
+421,Abstract Thesis 92: Power BI Inventory On Hand,2022-08-18,976,12,5,Aug
+422,Power BI Tutorial Series for Beginners 169: Power Query- List.Select,2022-08-17,768,14,4,Aug
+423,Abstract Thesis 91: Power BI Items/Categories not sold to the customers,2022-08-16,620,5,0,Aug
+424,Power BI Tutorial Series for Beginners 168: Power Query- List.IsEmpty,2022-08-15,284,7,0,Aug
+425,सीखे Power BI हिंदी में- अध्याय 35: Percent of Total and Percent of Subtotal,2022-08-14,194,8,2,Aug
+426,Power BI Tutorial Series for Beginners 167: Power Query- List.InsertRange,2022-08-11,215,7,4,Aug
+427,Power BI Tutorial: Calculating Business Days with and without NETWORKDAYS DAX Function | 2023 Guide,2022-08-10,719,11,0,Aug
+428,Power BI Tutorial Series for Beginners 166: Power Query- List.Alternate,2022-08-09,424,10,2,Aug
+429,"Power BI: Connect with Azure Data Lake Gen 2, Free Tier - AT 89",2022-08-08,674,18,5,Aug
+430,"सीखे Power BI हिंदी में- अध्याय 34: Calculate, Filter with and without using the filter, Row Context",2022-08-06,323,8,6,Aug
+431,"Abstract Thesis 88: Customer Retention with Dynamic Segmentation, New/Lost/Retain Customer Count",2022-08-05,362,12,2,Aug
+432,Power BI Tutorial Series for Beginners 165: Power Query- List.ReplaceMatchingItems,2022-08-03,346,8,4,Aug
+433,Power BI Tutorial Series for Beginners 164: Power Query- List.ReplaceValue,2022-08-02,381,12,2,Aug
+434,Abstract Thesis 87: Power BI Tooltip Page: How to pass selective values to the tooltip page,2022-08-01,2106,11,6,Aug
+435,"सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 33: DAX Related, Relatedtable",2022-07-30,265,8,7,Jul
+436,Abstract Thesis 86: Power BI Drill Through - More than one level,2022-07-29,1649,13,5,Jul
+437,Power BI Tutorial Series for Beginners 163: Power Query- List.Skip,2022-07-27,339,12,2,Jul
+438,Abstract Thesis 85: Power BI show Weekend data on Monday or Friday,2022-07-26,230,6,0,Jul
+439,Power BI Tutorial Series for Beginners 162: Power Query- List.Times- Create Time Table,2022-07-25,313,12,0,Jul
+440,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 32: DAX TOPN,2022-07-23,289,11,0,Jul
+441,Abstract Thesis 84: How to Create Google Big Query Account and Connect to Power BI,2022-07-22,1185,9,4,Jul
+442,Power BI Tutorial Series for Beginners 161: Power Query- List.RemoveRange,2022-07-20,274,7,0,Jul
+443,Abstract Thesis 83: Power BI Sum the Last/Latest Value of a Category/Group,2022-07-19,1230,14,4,Jul
+444,Power BI Tutorial Series for Beginners 160: Power Query- List.RemoveNulls,2022-07-18,259,5,0,Jul
+445,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 31: Measure Rank - Rankx,2022-07-17,316,7,0,Jul
+446,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 30: Running Total,2022-07-16,277,10,7,Jul
+447,Power BI Tutorial Series for Beginners 159: Power Query- List.RemoveMatchingItems,2022-07-15,418,6,0,Jul
+448,Abstract Thesis 82: Power BI Get the Last/Latest Value of a Category,2022-07-14,2979,11,7,Jul
+449,Abstract Thesis 81: Explore Power Point's Power BI Plugin,2022-07-14,289,4,0,Jul
+450,Power BI Tutorial Series for Beginners 158: Power Query- List.RemoveItems,2022-07-13,535,8,4,Jul
+451,"Abstract Thesis 80: Power BI 4,4,4 and 4,4,5 Calendar",2022-07-12,2123,19,5,Jul
+452,Power BI Tutorial Series for Beginners 157: Power Query- List.RemoveLastN,2022-07-11,262,4,0,Jul
+453,Power BI- How to create a login at app.powerbi.com,2022-07-10,3218,16,2,Jul
+454,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 29: Time Intelligence - Custom Period,2022-07-08,296,8,8,Jul
+455,"Power BI- Rank across more than one table| RANKX, Summarize| Rank across dimension tables",2022-07-06,1084,22,4,Jul
+456,Power BI Tutorial Series for Beginners 156: Power Query- List.RemoveFirstN,2022-07-04,255,8,2,Jul
+457,Power BI Tutorial Series for Beginners 155: Power Query- List.PositionOfAny,2022-07-01,290,9,0,Jul
+458,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 28: Time Intelligence - WTD and Last WTD,2022-06-29,254,8,0,Jun
+459,Abstract Thesis 78: Power BI - Show Grand total row or Avg Grand total row in Visual,2022-06-27,695,12,0,Jun
+460,Power BI Tutorial Series for Beginners 154: Power Query- List.Positions,2022-06-23,357,4,0,Jun
+461,Abstract Thesis 77: Power BI - Get Dates between range using Power Query List.Dates,2022-06-20,1410,14,17,Jun
+462,Power BI Tutorial Series for Beginners 153: Power Query- List.PositionOf,2022-06-18,1351,17,8,Jun
+463,Power BI Tutorial Series for Beginners 152: Power Query- List.IsDistinct,2022-06-08,333,5,0,Jun
+464,Abstract Thesis 76: Power BI Combine Tables Vertically(Row by Row). List.Zip,2022-06-06,558,11,1,Jun
+465,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 27: Time Intelligence - Week on Week,2022-06-02,348,9,11,Jun
+466,Tableau Vs Power BI- Chapter 28:  Tooltip,2022-05-31,180,5,2,May
+467,Power BI Tutorial Series for Beginners 151: Power Query- List.FindText,2022-05-30,685,5,0,May
+468,"Abstract Thesis 75: Power BI Datamarts- SQL, Direct Query Dataset, SSMS, Dax Studio, Service Report",2022-05-28,29362,113,11,May
+469,Abstract Thesis Episode 74: Power BI IsInScope - Switch Rank at different levels,2022-05-27,1277,23,2,May
+470,Power BI Tutorial Series for Beginners 150: Power Query- List.Difference,2022-05-25,459,14,3,May
+471,"सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 26: Time Intelligence - Previous Year, YOY",2022-05-23,304,5,2,May
+472,Get Dynamic Measures/Axis Slicer In Power Bi With Field Parameters| Use slicer to change Axis,2022-05-21,20109,96,12,May
+473,Power BI Tutorial Series for Beginners 149: Power Query- List.Numbers,2022-05-19,371,9,0,May
+474,"Abstract Thesis 72: Power BI Concatenate Text-  Measure ConcatenateX, DAX Table, Power Query Table",2022-05-18,1530,14,6,May
+475,Power BI Tutorial Series for Beginners 148: Power Query- List.Product,2022-05-16,407,13,0,May
+476,सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 25: Time Intelligence - Previous Quarter,2022-05-14,305,5,4,May
+477,Tableau Vs Power BI- Chapter 27: Scatter Visual with quadrants conditional formatting,2022-05-12,2945,12,0,May
+478,Abstract Thesis 71: PowerBI How to filter slicer of disconnected table Dimension to filter Dimension,2022-05-11,1975,15,4,May
+479,Power BI Tutorial Series for Beginners 147: Power Query- List.Repeat,2022-05-10,467,7,0,May
+480,Power BI: Decoding Direct Query Part 11 - Convert DateTime column to Date Column and Join in Model,2022-05-09,4943,18,11,May
+481,Power BI: Decoding Direct Query Part 12 - Related Function - Can we Related function in Direct Query,2022-05-08,572,6,0,May
+482,Power BI Tutorial Series for Beginners 146: Power Query- List.Reverse,2022-05-05,286,8,5,May
+483,"सीखे Power BI हिंदी में- Learn Power BI in Hindi- अध्याय 24: Time Intelligence - PreviousMonth, LMTD",2022-05-04,347,12,2,May
+484,Power BI Abstract Thesis Episode 70:  Select data between months - Month Range Slicer,2022-05-03,5622,29,3,May
+485,Power BI Tutorial Series for Beginners 145: Power Query- List.Combine,2022-05-02,767,15,0,May
+486,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 23: Time Intelligence - DATESYTD/ TOTALYTD,2022-04-28,342,9,0,Apr
+487,Tableau Vs Power BI- Chapter 26: Conditional formatting - How to use a measure to color visual,2022-04-27,232,6,0,Apr
+488,Power BI Tutorial Series for Beginners 144: Power Query- List.Intersect,2022-04-26,632,19,6,Apr
+489,Power BI Tutorial Series for Beginners 143: Power Query- List.Union,2022-04-25,855,11,7,Apr
+490,Power BI Abstract Thesis Episode 69: Customers who purchased category 1 not category 2,2022-04-21,244,6,6,Apr
+491,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 22: Time Intelligence - DATESQTD/ TOTALQTD,2022-04-20,349,9,2,Apr
+492,Tableau Vs Power BI- Chapter 25: Color Gradient/ Conditional formatting,2022-04-19,405,8,0,Apr
+493,Power Query Essentials: Calculating Sum with List.Sum | Power BI Beginner's Series #142,2022-04-18,7024,42,9,Apr
+494,LOD in Tableau vs Power BI - Chapter 6: Mastering FIXED Level of Detail Expressions,2022-04-14,3110,25,3,Apr
+495,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 21: Time Intelligence - DATESMTD/ TOTALMTD,2022-04-13,451,12,0,Apr
+496,Power BI Abstract Thesis Episode 68: Dynamic segmentation -Measure to Dimension conversion,2022-04-12,1991,17,4,Apr
+497,Power BI Tutorial Series for Beginners 141: Power Query- List.Last and List.LastN,2022-04-11,725,8,0,Apr
+498,"Power BI Abstract Thesis Episode 67: And for Selected Values, All selected values are present",2022-04-07,387,6,6,Apr
+499,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 20: Settings for Time Intelligence,2022-04-06,487,10,7,Apr
+500,Power BI Tutorial Series for Beginners 140: Power Query- List.First and List.FirstN,2022-04-05,794,14,0,Apr
+501,Power BI Abstract Thesis Episode 66: Power Query Calendar- Financial Year and Financial Month,2022-04-04,231,6,6,Apr
+502,सीखे Tableau हिंदी में - LOD Include (Level of Details) अध्याय 17,2022-04-02,1856,25,2,Apr
+503,Power BI Tutorial Series for Beginners 139: Power Query - List.Max and List.MaxN,2022-04-01,2027,16,2,Apr
+504,"Power BI Abstract Thesis Episode 65: Average of Rolling, Average of Snapshots",2022-03-31,686,11,5,Mar
+505,Power BI Tutorial Series for Beginners 138: Power Query - List.Min and List.MinN,2022-03-29,1538,12,1,Mar
+506,Abstract Thesis 64: Power BI Power Query Create distinct sorted comma-separated text from a text,2022-03-28,196,4,1,Mar
+507,Learn Tableau With Tableau Public 21: LOD Include,2022-03-27,29,0,0,Mar
+508,Power BI Tutorial Series for Beginners 137: Power Query - List.Count and List.Distinct,2022-03-24,1269,15,2,Mar
+509,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 19: Card and Multi Row Card,2022-03-23,388,9,0,Mar
+510,Power BI Tutorial Series for Beginners 136: Power Query - List.Contains and List.ContainsAll,2022-03-22,3741,39,0,Mar
+511,Power BI Abstract Thesis Episode 63: Text Filter Slicer and how to search on Multiple columns,2022-03-20,2443,17,4,Mar
+512,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 16- Table calculation part 2,2022-03-20,154,3,0,Mar
+513,Learn Tableau With Tableau Public 20: LOD Exclude,2022-03-19,45,2,0,Mar
+514,Power BI Abstract Thesis Episode 62: Split column and Combine Columns,2022-03-18,321,7,0,Mar
+515,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 18- Combo Visual,2022-03-17,350,8,0,Mar
+516,Power BI Tutorial Series for Beginners 135: Power Query - Fill Up Fill Down,2022-03-16,186,5,0,Mar
+517,"सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 17- Map , Shape Map  Visual",2022-03-15,384,3,2,Mar
+518,"Power BI Abstract Thesis Episode 61: Merge Queries, Why not Merge the code",2022-03-14,220,5,0,Mar
+519,Learn Power BI for Beginners 134: DAX Generateseries,2022-03-11,290,8,0,Mar
+520,Power BI Abstract Thesis Episode 60: Rolling Months Formula,2022-03-09,893,14,4,Mar
+521,Power BI Tutorial Series for Beginners 133: Power Query-  Text.PadStart and Text.PadEnd,2022-03-07,506,12,0,Mar
+522,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 16- Scatter Visual,2022-03-03,542,12,0,Mar
+523,Power BI Tutorial Series for Beginners 132: Power Query- Number operations,2022-03-01,138,9,5,Mar
+524,Power BI Abstract Thesis Episode 59: Calculation Groups - Use Measure with small multiple,2022-02-28,584,7,3,Feb
+525,"Power BI Calculation Groups- Measure Slicer, Measure Grouping| Column Header Grouping",2022-02-27,8031,39,11,Feb
+526,Power BI Tutorial Series for Beginners 131: Power Query- Add Prefix and add suffix,2022-02-24,130,5,0,Feb
+527,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 15- Table calculation part 1,2022-02-21,170,4,0,Feb
+528,#shorts #powerbi power bi how to do conditional formatting on pie,2022-02-19,723,26,4,Feb
+529,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 15- TreeMap Visual,2022-02-18,381,9,9,Feb
+530,Power BI Abstract Thesis Episode 57: Rolling Days Formula,2022-02-16,421,7,5,Feb
+531,Learn Tableau With Tableau Public 19: Window's Functions,2022-02-14,59,3,0,Feb
+532,"Power BI Tutorial Series for Beginners 130: Power Query- Round, Roundup, Round Down",2022-02-13,215,7,0,Feb
+533,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 14- Dual Axis,2022-02-11,87,2,1,Feb
+534,"Learn Power BI 4: Table, Matrix, Bar, Pie, Conditional formatting",2022-02-09,639,12,0,Feb
+535,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 14-  Area Visual,2022-02-09,350,8,2,Feb
+536,"Learn Power BI: Time Intelligence MOM, QOQ, YOY, WOW, WTD, Period",2022-02-07,10574,69,5,Feb
+537,"Learn Power BI 2- DAX Standard, Fiscal, Non-Standard, 4,4,4 Calendar",2022-02-04,1371,29,9,Feb
+538,Learn Tableau With Tableau Public 18: ATTR,2022-02-03,55,3,0,Feb
+539,"Microsoft Power BI Tutorial For Beginners✨  4 Videos series, 2023",2022-02-02,4327,45,5,Feb
+540,Power BI Tutorial Series for Beginners 129: Power Query- Index Column,2022-01-31,1148,7,2,Jan
+541,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 13- Stacked Visual,2022-01-30,57,4,0,Jan
+542,"#shorts Learn Power BI, Live Series on my Channel from 2nd Feb 2022",2022-01-29,896,49,1,Jan
+543,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 13-  Line Visual,2022-01-28,418,7,2,Jan
+544,Power BI Compare Categorical Data/two Brands  Using Slicers AT56,2022-01-26,2481,20,10,Jan
+545,#shorts Tableau vs Power BI Rank,2022-01-25,3680,53,2,Jan
+546,"Power BI Tutorial Series for Beginners 128: Power Query- IsEven, IsOdd, and  Sign",2022-01-24,120,6,0,Jan
+547,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 12- Tree Map Visual,2022-01-21,104,2,8,Jan
+548,Learn Power BI in Hindi - 2nd Session - Power BI for Beginner in Hindi,2022-01-19,262,21,0,Jan
+549,#shorts #powerbi power bi week over week #WOW,2022-01-18,578,14,0,Jan
+550,"Power BI Abstract Thesis Episode 55: Half Year Time Intelligence, Half Year Till date",2022-01-18,758,13,0,Jan
+551,Learn Tableau With Tableau Public 17: Rank,2022-01-17,39,1,0,Jan
+552,#shorts power bi deployment pipeline- power bi premium,2022-01-17,1255,36,0,Jan
+553,Learn Power BI in Hindi - 1st Session - Power BI for Beginner in Hindi,2022-01-16,596,34,13,Jan
+554,"#shorts power bi conditional formatting with two axis columns, concatenate label off",2022-01-16,371,10,0,Jan
+555,Power BI: #Shorts Why time intelligence fails. Options to make sure it works.,2022-01-16,789,22,0,Jan
+556,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 11- Line Visual,2022-01-14,83,9,2,Jan
+557,Tableau Vs Power BI- Chapter 24: Rank - Dense Rank,2022-01-10,298,1,0,Jan
+558,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 10- Map Visual,2022-01-10,101,3,7,Jan
+559,"Power BI Concatenate Label off, Use Axis instead of Legend :AT 54",2022-01-06,3287,21,7,Jan
+560,Abstract Thesis Episode 53: Power BI Premium - XMLA Endpoint - Using SQL Server profiler,2022-01-06,201,3,0,Jan
+561,Tableau Vs Power BI- Chapter 23: How to create groups,2022-01-05,525,8,2,Jan
+562,Power BI Tutorial Series for Beginners 127: Split Column By Digit to Non Digit & Non Digit to Digit,2022-01-03,302,4,0,Jan
+563,Power BI Abstract Thesis Episode 52: Power BI Premium - XMLA Endpoint - Data Refresh using SSMS,2022-01-03,380,7,1,Jan
+564,Machine leaning in Hindi - क्या है मशीन लर्निंग- हिंदी में - सिखने वाले यंत्र,2022-01-01,155,6,0,Jan
+565,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 11- Clustered Bar Visual,2021-12-27,522,9,2,Dec
+566,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 12- Stacked Visual,2021-12-27,465,10,3,Dec
+567,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 10- Pie and doughnut Visual,2021-12-23,620,11,8,Dec
+568,Power BI Abstract Thesis Episode 51: Change Connection from One source type to another Source Type,2021-12-22,955,10,2,Dec
+569,Power BI Abstract Thesis Episode 50: Dataflow Direct Query,2021-12-14,309,6,0,Dec
+570,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 9- Scatter Visual,2021-12-12,96,1,2,Dec
+571,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 8- Bubble Visual,2021-12-12,159,3,0,Dec
+572,Power BI Tutorial Series for Beginners 126: Text Before Delimiter and Text After Delimiter,2021-12-11,794,11,2,Dec
+573,Power BI Tutorial Series for Beginners 125: Power Query Trim and Clean,2021-12-11,577,10,0,Dec
+574,"Power BI Abstract Thesis Episode 49: Premium- Deployment Pipeline, Load More Data on Test/Prod",2021-12-05,448,12,0,Dec
+575,"Power BI Abstract Thesis Episode 48: Power BI Admin - Dataset, Advanced & Goal settings",2021-11-29,150,6,7,Nov
+576,Power BI Abstract Thesis Episode 47: Tenant Settings-Admin API & Dataflow Setting,2021-11-29,207,4,0,Nov
+577,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 9- Matrix,2021-11-21,802,16,3,Nov
+578,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 7- Table Matrix,2021-11-21,93,4,0,Nov
+579,Learn Tableau With Tableau Public 16: Quick Table Calculations Part 2,2021-11-21,26,1,0,Nov
+580,Power BI Abstract Thesis Episode 46: Tenant Settings-Dashboard Settings and Developer Settings,2021-11-21,148,4,0,Nov
+581,"Tableau Vs Power BI- Chapter 22: Makedate/Date, Today, Dateadd and  datediff",2021-11-21,422,5,0,Nov
+582,Learn Power BI Beginners 124: DateTime.IsInNextNHours and DateTime.IsInPreviousNHours,2021-11-21,151,6,0,Nov
+583,Tableau Vs Power BI- Chapter 21: Tableau ATTR,2021-11-18,2374,10,0,Nov
+584,Power BI Abstract Thesis Episode 45: Tenant Settings- Audit and Usage Settings,2021-11-15,152,2,2,Nov
+585,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 8 -Table Visual,2021-11-13,885,13,7,Nov
+586,"Power BI DateTime.IsInCurrentHour, IsInNextHour, IsInPreviousHour",2021-11-11,130,2,4,Nov
+587,Power BI Abstract Thesis Episode 44: Tenant Settings- Integration settings,2021-11-08,180,5,0,Nov
+588,Learn Tableau With Tableau Public 15: Quick Table Calculations Part 1,2021-11-02,60,1,0,Nov
+589,Power BI Abstract Thesis Episode 43: - Continuous streak,2021-11-01,738,10,7,Nov
+590,Power BI Abstract Thesis Episode 42: - Single Select with Select All,2021-10-25,4660,52,22,Oct
+591,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 4- Measure,2021-10-24,228,4,2,Oct
+592,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 7 - Create Date Table,2021-10-19,1085,14,17,Oct
+593,Power BI Abstract Thesis Episode 41: Tenant Settings- Admin Roles,2021-10-18,166,2,0,Oct
+594,"Power BI Tutorial Series for Beginners 122: DateTime IsInNextNMinutes, DateTime IsInPreviousNMinutes",2021-10-14,126,3,0,Oct
+595,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 6- Pie Visual,2021-10-13,125,4,0,Oct
+596,Abstract Thesis Episode 40: Power BI Tenant Settings- Power BI visuals,2021-10-12,4623,18,4,Oct
+597,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 6 - Create calculated Columns and Measures,2021-10-08,1516,15,2,Oct
+598,"सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 5- Power Query - Fill Up, Fill Down",2021-10-04,1601,26,1,Oct
+599,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 5- Bar Visual,2021-10-02,200,3,5,Oct
+600,Learn Tableau With Tableau Public 14: Dual Axis Visual,2021-10-02,28,1,0,Oct
+601,Tableau Vs Power BI- Chapter 20: Axis Slicer,2021-10-02,479,8,2,Oct
+602,Tableau Vs Power BI- Chapter 19: Measure Slicer,2021-10-02,1168,8,0,Oct
+603,"Power BI Tutorial Series for Beginners 121: DateTime.IsInCurrentMinute, DateTime.IsInNextMinute",2021-09-29,115,4,0,Sep
+604,Power BI Abstract Thesis Episode 39: Tenant- Content Pack and App Setting,2021-09-27,211,5,0,Sep
+605,Learn Tableau With Tableau Public 13: Line Visual,2021-09-24,40,3,0,Sep
+606,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 3- Calculated Field,2021-09-21,1059,21,3,Sep
+607,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 2- Load and Model Data,2021-09-21,381,6,0,Sep
+608,Power BI Abstract Thesis Episode 38: Tenant- Discovery Setting,2021-09-20,185,4,2,Sep
+609,Power BI Abstract Thesis Episode 37: Tenant- Export Permission Setting Part 2,2021-09-13,107,5,2,Sep
+610,सीखे Tableau हिंदी में - Learn Tableau in Hindi - अध्याय 1- Download and Install,2021-08-29,2408,24,7,Aug
+611,सीखे Power BI हिंदी में - Learn Power BI in Hindi- अध्याय 4- Power Query - Transpose Data,2021-08-29,2012,41,8,Aug
+612,Power BI in Hindi- सीखे Power BI हिंदी में- अध्याय 2- Power Query Remove Empty/Duplicate rows,2021-08-29,4221,73,16,Aug
+613,"Power BI in Hindi- Power Query- Pivot, Unpivot Data| - सीखे Power BI हिंदी में| Data Transformation",2021-08-29,2551,33,7,Aug
+614,"Power BI Tutorial Series for Beginners 120: DateTime.IsInNextNSeconds, DateTime.IsInPreviousNSeconds",2021-08-28,117,2,3,Aug
+615,"Power BI Tutorial Series for Beginners 119: DateTime.IsInCurrentSecond ,DateTime.IsInNextSecond",2021-08-28,105,1,2,Aug
+616,Learn Tableau With Tableau Public 12: Bubble Visual,2021-08-25,106,1,0,Aug
+617,Power BI Abstract Thesis Episode 36: Tenant- Export Permission Setting Part 1,2021-08-23,356,6,2,Aug
+618,Learn Tableau With Tableau Public 11: Scatter Visual,2021-08-12,85,4,0,Aug
+619,Power BI Abstract Thesis Episode 35: Tenant- External User Share Setting,2021-07-27,389,5,2,Jul
+620,Power BI Abstract Thesis Episode 34: Tenant- Sensitivity Setting,2021-07-27,200,4,0,Jul
+621,Power BI Abstract Thesis Episode 33: Tenant- Workspace Settings,2021-07-26,300,4,0,Jul
+622,Power BI Abstract Thesis Episode 32: Tenant- Help And Support Settings,2021-07-26,401,7,0,Jul
+623,Power BI Abstract Thesis Episode 31: Power BI Admin -Admin Roles,2021-07-25,503,8,0,Jul
+624,Power BI Abstract Thesis Episode 30: Power BI Admin -Tenant Setting,2021-07-25,1114,12,4,Jul
+625,Learn Tableau With Tableau Public 10: Map Visual - Part 2,2021-07-18,51,3,0,Jul
+626,Learn Tableau With Tableau Public 9: Map Visual - Part 1,2021-07-18,145,3,0,Jul
+627,Learn Tableau With Tableau Public 8: Tree Maps Visual,2021-07-18,122,2,0,Jul
+628,Power BI Comprehensive Tutorial Series for Beginners in Hindi(हिंदी)| BI Concepts| Download Install,2021-06-20,16331,269,55,Jun
+629,Learn Tableau With Tableau Public 7: Pie Visual,2021-06-13,99,4,1,Jun
+630,Power BI Abstract Thesis Episode 29:  Dataflows and Dataset Design Pattern implementation,2021-06-13,1541,23,2,Jun
+631,Power BI Abstract Thesis Episode 28: How to ALM toolkit to merge Power BI  files/Meta,2021-06-13,1020,9,6,Jun
+632,Learn Tableau With Tableau Public 6: Stacked and clustered Bar Visual,2021-06-13,119,1,0,Jun
+633,Learn Tableau With Tableau Public 5: Bar Visual,2021-06-13,134,4,0,Jun
+634,Power BI Tutorial Series for Beginners 118: Power Query- DateTime.From,2021-06-13,249,4,2,Jun
+635,"Power BI Tutorial Series for Beginners 117: DateTime.Date, DateTime.LocalNow, DateTime.FixedLocalNow",2021-06-13,1846,21,4,Jun
+636,Power BI Abstract Thesis Episode 27: What is Object Level Security (OLS),2021-06-13,484,4,4,Jun
+637,Power BI Abstract Thesis Episode 26:  How to use Row Level Security (RLS),2021-06-13,5794,22,4,Jun
+638,"Power BI Tutorial Series for Beginners 116: Date.IsLeapYear, Date.IsInYearToDate",2021-06-09,229,5,5,Jun
+639,"Power BI Tutorial Series for Beginners 115: Date.IsInPreviousNYears, Date.IsInNextNYears",2021-06-06,284,7,2,Jun
+640,"Power BI Tutorial Series for Beginners 114: Date.IsInPreviousNQuarters, Date.IsInNextNQuarters",2021-05-28,239,3,0,May
+641,Learn Tableau With Tableau Public 4: Table and Matrix Visual,2021-05-26,430,7,0,May
+642,Power BI Abstract Thesis Episode 25:  Matrix as Project plan Visual| Gantt Chart,2021-05-24,3734,13,7,May
+643,Power BI Abstract Thesis Episode 24: Charticulator Part 3 - Circular Visual,2021-05-20,465,11,2,May
+644,"Power BI Tutorial Series for Beginners 113: Date.IsInPreviousNMonths, Date.IsInNextNMonths",2021-05-18,576,6,0,May
+645,Learn Tableau With Tableau Public 3: Create Measures,2021-05-17,154,3,2,May
+646,Power BI Abstract Thesis Episode 23: Charticulator Part 2 - Scatter with Shapes,2021-05-12,856,11,4,May
+647,Learn Tableau With Tableau Public 2: Create Calculated Fields,2021-05-10,2120,9,0,May
+648,Power BI Abstract Thesis Episode 22: Charticulator Part 1 - Bar and Bar Matrix,2021-05-06,1094,5,5,May
+649,Learn Tableau With Tableau Public:  Download and Install,2021-05-04,854,20,3,May
+650,"Power BI Tutorial Series for Beginners 112: Date.IsInPreviousNWeeks, Date.IsInNextNWeeks",2021-05-03,462,7,0,May
+651,"Power BI Tutorial Series for Beginners 111: Date.IsInPreviousNDays, Date.IsInNextNDays",2021-04-29,590,6,2,Apr
+652,"Power BI Tutorial Series for Beginners 110: Date.IsInCurrentWeek, IsInNextWeek, IsInPreviousWeek",2021-04-27,521,6,0,Apr
+653,"Power BI Abstract Thesis Episode 21: All About Time Intelligence around Today, YTD Today, MTD Today",2021-04-26,364,12,1,Apr
+654,"Power BI Tutorial Series for Beginners 109: Date.IsInCurrentYear, IsInNextYear, IsInPreviousYear",2021-04-22,267,7,0,Apr
+655,Power BI Tutorial Series for Beginners 108: Date.IsInCurrentQuarter IsInNextQuarter,2021-04-21,279,6,0,Apr
+656,"Power BI Tutorial Series for Beginners 107: Date.IsInCurrentMonth IsInNextMonth, IsInPreviousMonth",2021-04-19,481,8,4,Apr
+657,Power BI Tutorial Series for Beginners 106 Date.IsInCurrentDay Date.IsInNextDay Date.IsInPreviousDay,2021-04-16,372,5,0,Apr
+658,Power BI Abstract Thesis Episode 20: How to calculate Business Days/ Workdays,2021-04-15,750,7,5,Apr
+659,Tableau Vs Power BI- Chapter 18: Animations,2021-04-13,352,4,6,Apr
+660,Tableau Vs Power BI- Chapter 17- Time Intelligence,2021-04-12,808,15,0,Apr
+661,Power BI Tutorial Series for Beginners 105: Date Table in Power Query List.Dates,2021-04-09,457,5,4,Apr
+662,Power BI How to use/compare two Date/Period slicers: AT 19,2021-04-08,2382,22,4,Apr
+663,Tableau Vs Power BI- Chapter 16- LOD exclude (Level of Details),2021-04-06,2694,25,2,Apr
+664,Tableau Vs Power BI- Chapter 15- Scatter Visual,2021-04-05,295,5,0,Apr
+665,Power BI Tutorial Series for Beginners 104: Power Query- Date.StartOfWeek and Date.EndOfWeek,2021-04-02,836,16,0,Apr
+666,Tableau Vs Power BI- Chapter 14- MAP Visual,2021-04-01,1289,14,2,Apr
+667,Power BI- How To Create a 12 Month Trend Using an Independent Or Disconnected Date Table,2021-03-31,7060,38,16,Mar
+668,Tableau Vs Power BI- Chapter 13- Parameter/What if Parameter,2021-03-30,1166,13,5,Mar
+669,Power BI Tutorial Series for Beginners 103: Power Query- Date.StartOfYear and Date.EndOfYear,2021-03-26,403,2,2,Mar
+670,"Have No Fear, Parry is here:  Connect with Parvinder Chana, Microsoft MVP, Power BI Super User",2021-03-24,176,9,2,Mar
+671,Tableau Vs Power BI- Chapter 12- Quick Calculations/Measures,2021-03-23,734,10,0,Mar
+672,Tableau Vs Power BI- Chapter 11- TreeMap Visual,2021-03-22,526,6,0,Mar
+673,Power BI Tutorial Series for Beginners 102: Power Query- Date.StartOfQuarter and Date.EndOfQuarter,2021-03-19,265,6,0,Mar
+674,"Power BI Exclude selected Slicer value, Independent Table: AT 17| Use of Disconnected Table",2021-03-18,2666,23,6,Mar
+675,Tableau Vs Power BI- Chapter 10- LOD Include (Level Of Details),2021-03-16,3319,30,20,Mar
+676,Tableau Vs Power BI- Chapter 9- Stacked Visual,2021-03-15,388,3,0,Mar
+677,Power BI Tutorial Series for Beginners 101: Power Query- Date.StartOfMonth and Date.EndOfMonth,2021-03-12,1138,7,2,Mar
+678,Tableau Vs Power BI- Chapter 8- Pie Visual,2021-03-11,469,5,2,Mar
+679,Power BI Page Navigation| New mean to display pages - Display only one page| Sync Slicers,2021-03-10,3524,18,8,Mar
+680,Power BI Abstract Thesis Episode 15: Need Traditional Parameter Page,2021-03-09,4466,16,6,Mar
+681,Tableau Vs Power BI- Chapter 7- Matrix,2021-03-08,1067,11,2,Mar
+682,Tableau Vs Power BI- Chapter 6- LOD- FIXED (Level of Details)-Check New Version in Description,2021-03-05,5817,60,32,Mar
+683,Tableau Vs Power BI- Chapter 5- Table Visual,2021-03-04,713,16,0,Mar
+684,Tableau Vs Power BI- Chapter 4- Bar/Clustered Bar,2021-03-03,1836,19,6,Mar
+685,Tableau Vs Power BI- Chapter 3- Measure,2021-03-02,1474,16,3,Mar
+686,"Power BI Direct Query Tutorial: Connecting, Creating & Publishing - Full Beginner's Guide",2021-03-01,3509,57,9,Mar
+687,How to use Incorta and how to configure Incorta in Power BI,2021-02-26,1536,20,4,Feb
+688,Learn Power BI- Tutorial Series for Absolute Beginners Step 2: Case Study & Basics of Data Analytics,2021-02-25,632,19,2,Feb
+689,Tableau Vs Power BI- Chapter 2- Calculated Field/ Calculated Column,2021-02-24,2908,29,4,Feb
+690,Power Bi Field Conditional Formatting - Use Measure In Conditional Formatting| Abstract Thesis 14,2021-02-23,10591,45,13,Feb
+691,"Power BI Tutorial Series for Beginners 99: Power Query- Date.Day, Date.DayOfWeek, Date.DayOfYear",2021-02-22,399,8,2,Feb
+692,Power BI Tutorial Series for Beginners Part 98: Power Query- Date.AddWeeks,2021-02-19,315,6,0,Feb
+693,Power BI Tutorial Series for Beginners Part 97: Power Query- Date.AddYears,2021-02-18,497,10,0,Feb
+694,PowerBI Abstract Thesis Episode 13: How Interactions Work- Split Page using interactions to compare,2021-02-17,4692,45,11,Feb
+695,Tableau Vs Power BI- Chapter 1 - Getting Started & Data Loading,2021-02-16,8659,78,5,Feb
+696,Power BI Tutorial Series for Beginners Part 96: Power Query- Date.AddQuarters,2021-02-15,321,7,0,Feb
+697,Power BI Tutorial Series for Beginners Part 95: Power Query- Date.AddMonths,2021-02-12,363,6,2,Feb
+698,Power BI Tutorial Series for Beginners Part 94: Power Query- Date.AddDays,2021-02-11,400,7,0,Feb
+699,Power BI Tutorial Series for Beginners Part 93: Summarize,2021-02-10,1100,11,4,Feb
+700,PowerBI Abstract Thesis Episode 12: How to Enter Data and Edit it,2021-02-09,3764,46,7,Feb
+701,"Power BI Tutorial Series for Beginners Part 92: Relatedtable, Related| Copy Data across Tables",2021-02-08,7344,25,5,Feb
+702,Power BI Tutorial Series for Beginners Part 91: Power Query Text.ToList,2021-02-05,354,12,0,Feb
+703,Power BI Tutorial Series for Beginners Part 90: Power Query Text.Length and Text.Reverse,2021-02-04,704,8,4,Feb
+704,Power BI Tutorial Series for Beginners Part 89: Power Query-  Text.Split,2021-02-03,554,9,0,Feb
+705,"Power BI Tutorial Series for Beginners Part 88: Power Query - Date.FromText,  Date.ToText",2021-02-02,1229,21,2,Feb
+706,"Learn Power BI Beginners 61: DAX ROUND, ROUNDUP, ROUNDDOWN",2021-02-01,1062,14,0,Feb
+707,Power BI Tutorial Series for Beginners Part 87: Power Query - Text.Contains,2021-02-01,4907,46,14,Feb
+708,Power BI Tutorial Series for Beginners Part 86: Power Query - Text.Combine,2021-01-29,1494,15,2,Jan
+709,"Power BI Tutorial Series for Beginners Part 85: Power Query - Text.Start, Text.Middle, Text.End",2021-01-28,2822,26,0,Jan
+710,PowerBI Abstract Thesis Episode 11:  How to create a Measure Slicer,2021-01-27,5304,34,9,Jan
+711,Power BI Tutorial Series for Beginners Part 84:  Power Query Replace Value,2021-01-25,505,10,0,Jan
+712,PowerBI Abstract Thesis Episode 10:  How to Deal with Column Rename at Source,2021-01-21,570,9,0,Jan
+713,PowerBI Abstract Thesis Episode 9:  How to import JSON Data,2021-01-20,1391,13,1,Jan
+714,Learn Power BI- Tutorial Series for Absolute Beginners Step 1: Basics of Data Analytics,2021-01-18,1776,39,6,Jan
+715,"Power BI Tutorial Series for Beginners Part 83: Power Query Split Column , Split Column By Delimiter",2021-01-18,1079,11,0,Jan
+716,PowerBI Abstract Thesis Episode 8: How to create python visual,2021-01-15,1412,13,2,Jan
+717,Power BI Beginners Part 82: Create Dashboard in Power BI service,2021-01-14,326,7,6,Jan
+718,Power BI Tutorial Series for Beginners Part 81: Create Report in power bi service,2021-01-13,208,5,0,Jan
+719,PowerBI Abstract Thesis Episode 7: How to make Python work with Power BI,2021-01-12,5858,44,12,Jan
+720,Power BI Tutorial Series for Beginners Part 80: Publish to Web,2021-01-11,297,7,3,Jan
+721,Power BI Tutorial Series for Beginners Part 79: End of Week,2021-01-08,441,4,0,Jan
+722,Power BI Tutorial Series for Beginners Part 78:  Start of Week,2021-01-07,790,13,0,Jan
+723,PowerBI Abstract Thesis Episode 6: How to Create Sort Column & Solve Related Errors| Sort By Column,2021-01-05,7707,29,5,Jan
+724,PowerBI Abstract Thesis Episode 5: Why previousmonth does not give result when datesmtd is giving it,2021-01-05,455,10,6,Jan
+725,"PowerBI  Abstract Thesis Episode 4:  Why DATESMTD is still blank, even after having correct TI Setup",2021-01-01,2024,18,2,Jan
+726,Abstract Thesis 3 Power BI Why Time Intelligence Fails 5 Saviour Steps,2020-12-28,7691,55,14,Dec
+727,Power BI Tutorial Series for Beginners Part 77: ENDOFMONTH- Standard and Custom,2020-12-24,304,8,0,Dec
+728,#powerbi #powerbiService: Quickly create reports in the Power BI service (preview): December 2020,2020-12-22,564,7,0,Dec
+729,Power bi Abstract Thesis Episode 2:  How to manage when column is added or removed at source,2020-12-22,5541,46,21,Dec
+730,Power BI Tutorial Series for Beginners Part 76: STARTOFMONTH - Standard and Custom,2020-12-21,343,7,0,Dec
+731,Power BI- Small multiples (preview): December 2020 Update,2020-12-17,917,14,0,Dec
+732,Power BI Tutorial Series for Beginners Part 75: ENDOFQUARTER- Standard and Custom,2020-12-17,280,6,0,Dec
+733,Power BI Tutorial Series for Beginners Part 74: STARTOFQUARTER- Standard and Custom,2020-12-16,307,5,2,Dec
+734,Learn Power BI 73: DAX ENDOFYEAR,2020-12-15,547,7,2,Dec
+735,Power BI Tutorial Series for Beginners Part 72: Startofyear,2020-12-10,496,8,0,Dec
+736,"Power BI Tutorial Series for Beginners Part 71: Day vs Day, previousday, Last day, nextday, DOD",2020-12-09,394,5,1,Dec
+737,Power BI Time Intelligence: Week-on-Week & WTD Analysis - Beginner's Series Part 70,2020-12-08,2423,31,24,Dec
+738,"Power BI 69 DAX: YTD (Time Intelligence) -DATESYTD, Year on Year, YOY",2020-12-07,1368,18,5,Dec
+739,"Power BI Tutorial Series for Beginners Part 68: QTD (Time Intelligence) -DATESQTD, QOQ, Last Quarter",2020-12-04,700,13,0,Dec
+740,"Power BI Tutorial Series for Beginners Part 67: MTD (Time Intelligence)-DATESMTD, Last Month To Date",2020-12-03,1388,16,4,Dec
+741,Expertise Power BI- How to Change Connection Details| Power BI Advance Concepts| Edit Connection,2020-12-02,19529,111,19,Dec
+742,Power BI Tutorial Series for Beginners Part 66: Dateadd and its Alternate,2020-12-01,558,13,0,Dec
+743,Power BI Tutorial Series for Beginners Part 65: Trunc,2020-11-30,510,9,0,Nov
+744,Power BI Tutorial Series for Beginners Part 64: RADIANS & DEGREES- Geometry with #powerbi,2020-11-27,264,8,0,Nov
+745,Power BI Tutorial Series for Beginners Part 63: Product and ProductX- #Product of Row Values,2020-11-26,2804,24,0,Nov
+746,Power BI Tutorial Series for Beginners Part 62: Power & SQRT,2020-11-25,310,10,2,Nov
+747,Power BI Tutorial Series for Beginners Part 61: Deprecated Video -New video Link in comments,2020-11-24,213,6,3,Nov
+748,Power BI Tutorial Series for Beginners Part 60: LCM and GCD- Create #calculator with #GENERATESERIES,2020-11-23,289,9,3,Nov
+749,Power BI Tutorial Series for Beginners Part 59:  LN and EXP- #Mathematics with #powerbi,2020-11-20,270,6,0,Nov
+750,Learn Power BI Log and Log10 : Tutorial for Beginners 58,2020-11-19,400,10,0,Nov
+751,"Power BI Tutorial Series for Beginners Part 57:  PI, RAND, and RANDBETWEEN",2020-11-18,622,11,0,Nov
+752,Power BI Tutorial Series for Beginners Part 56: Switch-Case statement of #PowerBI,2020-11-17,3660,30,5,Nov
+753,"Power BI Tutorial Series for Beginners Part 55: QUOTIENT, MOD- Weeks that start with Start of Year",2020-11-16,394,6,0,Nov
+754,"Power BI Tutorial Series for Beginners Part 54: COALESCE. ISBLANK, A hidden Power House",2020-11-13,490,11,0,Nov
+755,Power BI Tutorial Series for Beginners Part 53: Today and UTCToday,2020-11-12,1295,8,0,Nov
+756,"Power BI Tutorial Series for Beginners Part 52: DAX ISTEXT, ISNUMBER, ISNONTEXT and ISLOGICAL",2020-11-11,420,6,0,Nov
+757,Power BI Tutorial Series for Beginners Part 51: NOW & UTCNOW - Create a digital Clock with Play Axis,2020-11-09,829,10,3,Nov
+758,Power BI Beginners Part 50:  UNICHAR - Tool for Custom Icon Formatting,2020-11-05,2767,14,0,Nov
+759,"Power BI Tutorial Series for Beginners Part 49: Trim, Upper, and Lower",2020-11-05,491,5,0,Nov
+760,Power BI Tutorial Series for Beginners Part 48: REPLACE and SUBSTITUTE,2020-11-04,371,6,0,Nov
+761,"Power BI Tutorial Series for Beginners Part 47: Text Operations- Mid, Left, Right",2020-11-03,366,3,2,Nov
+762,"Power BI Tutorial Series for Beginners Part 46: EXACT , LEN(length)",2020-11-02,380,3,0,Nov
+763,Power BI Tutorial Series for Beginners Part 45: SEARCH and FIND,2020-10-30,704,11,2,Oct
+764,Power BI Tutorial Series for Beginners Part 44: CONTAINSSTRING and CONTAINSSTRINGEXACT,2020-10-29,502,7,0,Oct
+765,Power BI Tutorial Series for Beginners Part 43: Concatenatex,2020-10-28,738,12,0,Oct
+766,Power BI Tutorial Series for Beginners Part 42: TOPN,2020-10-26,2814,30,14,Oct
+767,Power BI Tutorial Series for Beginners Part 41: Running Total/ Cumulative,2020-10-26,1395,13,2,Oct
+768,Power BI Tutorial Series for Beginners Part 40: Measure Rank (RANKX),2020-10-23,1026,11,11,Oct
+769,Power BI Tutorial Series for Beginners Part 39: Column Rank (RANKX),2020-10-22,754,13,5,Oct
+770,"Power BI Tutorial Series for Beginners Part 38:  HasOneValue , Isfiltered",2020-10-21,2169,18,1,Oct
+771,Power BI Tutorial Series for Beginners Part 37: Percent of SubTotal or Total,2020-10-20,4643,52,9,Oct
+772,"Power BI Tutorial Series for Beginners Part 36: Copy Values Between Tables- LOOKUPVALUE, RELATED",2020-10-19,6029,32,8,Oct
+773,Power BI Tutorial Series for Beginners Part 35: Default Date Today/ This Month / This Year,2020-10-16,6105,37,18,Oct
+774,Power BI Tutorial Series for Beginners Part 34: How to use Play Axis Visual,2020-10-15,713,12,0,Oct
+775,Power BI Tutorial Series for Beginners Part 33: Chord and Sankey Visual,2020-10-14,318,10,0,Oct
+776,Power BI Tutorial Series for Beginners Part 32: Sunburst Visual,2020-10-13,361,12,0,Oct
+777,Power BI Tutorial Series for Beginners Part 31: Tornado chart,2020-10-12,681,14,0,Oct
+778,Power BI Tutorial Series for Beginners Part 30: Tree Map Visual,2020-10-09,347,11,4,Oct
+779,Power BI Tutorial Series for Beginners Part 29: Map Visual,2020-10-07,348,17,0,Oct
+780,Power BI Tutorial Series for Beginners Part 28: Matrix Visual,2020-10-07,1885,18,9,Oct
+781,Power BI Tutorial Series for Beginners Part 27: Scatter Visual,2020-10-06,493,14,4,Oct
+782,Power BI Tutorial Series for Beginners Part 26: Line Visual,2020-10-05,315,11,0,Oct
+783,Power BI Tutorial Series for Beginners Part 25: Stacked Visual & 100% Stacked Visual,2020-10-02,320,12,0,Oct
+784,Power BI Tutorial Series for Beginners Part 24: Pie Visual,2020-10-02,384,14,0,Oct
+785,Power BI Tutorial Series for Beginners Part 23: Bar Visual,2020-10-01,465,9,2,Oct
+786,Power BI Tutorial Series for Beginners Part 22: Table Visual,2020-09-30,583,9,5,Sep
+787,Power BI Tutorial Series for Beginners Part 21:  Measures,2020-09-28,739,12,3,Sep
+788,Power BI Tutorial Series for Beginners Part 20:  Calculated columns(Dax),2020-09-28,1162,16,0,Sep
+789,Power BI Tutorial Series for Beginners Part 19:  Bridge Table,2020-09-24,18310,156,19,Sep
+790,Power BI - DAX vs SQL Part 10: Filter Aggregated Data,2020-09-23,362,16,4,Sep
+791,"Power BI: Dynamic Segmentation, Bucketing or Binning| Measure as Dimension| Measure in slicer",2020-09-22,10917,67,27,Sep
+792,Power BI - DAX vs SQL Part 9:  Average of Sum(Level of Details),2020-09-21,384,11,3,Sep
+793,Power BI - DAX vs SQL Part 8:   Percent of Sub Total,2020-09-18,863,12,3,Sep
+794,Power BI - DAX vs SQL Part 7: Percent of Total,2020-09-17,328,7,2,Sep
+795,Power BI - DAX vs SQL Part 6: Filtered Column/Measure,2020-09-16,468,12,3,Sep
+796,Power BI - DAX vs SQL Part 5: Filter Data and Filter plus Group by,2020-09-15,999,15,5,Sep
+797,Power BI - DAX vs SQL Part 4 :  Group by and working across tables,2020-09-15,1104,16,3,Sep
+798,Power BI - DAX vs SQL Part 3  :  Calculations and Add Columns,2020-09-14,1162,21,5,Sep
+799,Learn Power BI Beginners 18: Create a Dimension Table (DAX),2020-09-11,2426,31,6,Sep
+800,Power BI Tutorial Series for Beginners Part 17: Create Table from existing Table-DAX| DAX SUMMARIZE,2020-09-10,20488,151,28,Sep
+801,Learn Power BI Beginners Part: How to Merge Tables (Power Query),2020-09-09,959,19,4,Sep
+802,Power BI - DAX vs SQL Part 2: Aggregations- Distinct Count/Sum,2020-09-08,1530,21,5,Sep
+803,Learn Power BI Beginners 15: How to Append Tables (Power Query),2020-09-07,690,14,2,Sep
+804,Power BI Tutorial Series for Beginners Part 14: Remove Empty and Remove duplicate Rows (Power Query),2020-09-05,1582,17,6,Sep
+805,Power BI Tutorial Series for Beginners Part 13: Transpose Data(Power Query),2020-09-04,801,15,0,Sep
+806,"Power BI: HR Analytics - Employees as on Date - userelationship , crossfilter, Hired/Terminated",2020-09-02,9869,141,44,Sep
+807,Power BI Tutorial Series for Beginners Part 12: Pivot Data(Power Query),2020-09-02,857,13,2,Sep
+808,Power BI - DAX vs SQL Part 1 : Select Data and Row Counts,2020-09-01,5014,58,8,Sep
+809,Power BI Beginners Part 11 : how to Unpivot Data(Power Query),2020-08-31,1552,23,8,Aug
+810,"Power BI Beginners 10: Enhance Calendar with Work Day Columns, WeekDay",2020-08-27,721,13,9,Aug
+811,Power BI Beginners Part 9: Enhance Calendar: Special Slicers columns,2020-08-27,943,16,7,Aug
+812,Power BI Beginner Part 8: Enhance Calendar with Financial Week Columns,2020-08-26,1278,15,6,Aug
+813,Power BI Beginners Part 7: Enhance Calendar Table with Week Columns,2020-08-24,1324,21,4,Aug
+814,Power BI Beginners Part 6: Enhance Date Table - Financial Year Details,2020-08-24,2197,28,7,Aug
+815,Power BI Tutorial Series for Beginners: Part 5: Create Date Table - Calendar Year. DAX- Calendar,2020-08-22,2738,26,13,Aug
+816,Power BI Tutorial Series for Beginners: Part 4: Create Date from Month Year( Power Query/ M),2020-08-21,3320,29,10,Aug
+817,Learn Power BI Beginners 3- Separate out Dimension Table(Power Query),2020-08-19,3712,32,7,Aug
+818,Power BI for Beginners: Mastering Dimension Tables with Power Query - Part 2,2020-08-19,10509,87,15,Aug
+819,"Power BI for Beginners 1: Loading Data, Creating Columns, and Measures",2020-08-18,35815,296,25,Aug
+820,Power BI : Decoding Direct Query : Date Part Column - Part 10,2020-08-15,908,15,4,Aug
+821,Power BI : Decoding Direct Query : Related Column - Part 9,2020-08-14,384,10,0,Aug
+822,Power BI : Decoding Direct Query : Composite Key - Part 8 #COMBINEVALUES,2020-08-13,1720,18,7,Aug
+823,Power BI: Decoding Direct Query: Date Table not in DB- Time Intelligence: Power BI Date table Part 7,2020-08-11,1277,21,0,Aug
+824,Power BI: Decoding Direct Query: Date Table not in DB- Time Intelligence: Power BI Date table Part 6,2020-08-10,4009,35,11,Aug
+825,Power BI : Decoding Direct Query : Date Difference Column  - Part 5,2020-08-10,2008,17,8,Aug
+826,Power BI : Decoding Direct Query :Conditional Columns - using IF in columns - Part 4,2020-08-06,1193,12,2,Aug
+827,Power BI : How to Create a Theme,2020-08-05,456,12,2,Aug
+828,Power BI : Decoding Direct Query : Calculated Columns (Power Query) - Part 3,2020-08-05,3832,23,0,Aug
+829,"Power BI Time Intelligence Webinar - Year On Year, Week On Week",2020-08-05,547,15,2,Aug
+830,Power BI : Decoding Direct Query: Custom Columns (Power Query)- Part 2,2020-08-04,2414,16,5,Aug
+831,Power BI : Decoding Direct Query : Row Level Calculation - Part 1,2020-08-03,6476,36,2,Aug
+832,Power BI openingbalancemonth openingbalancequarter openingbalanceyear,2020-08-01,844,13,2,Aug
+833,"Power BI Financial Functions 2: PPMT, IPMT, CUMIPMT, CUMPRINC, RRI",2020-07-31,289,13,1,Jul
+834,Power BI closingbalancemonth closingbalancequarter closingbalanceyear,2020-07-29,2758,22,0,Jul
+835,"Power BI Financial Functions 1: 5 Functions -PMT, PV, FV, Rate, NPER",2020-07-28,782,15,2,Jul
+836,5 Copy Paste tricks on Power BI. How to recover a lost source data for import mode.,2020-07-24,1348,19,0,Jul
+837,Power BI :: 5 Mins Data to Discovery,2020-07-22,274,14,0,Jul
+838,Power BI - 5  Measure Management Tips - How to create Measures Folder in Power BI- Organize Measures,2020-07-12,2106,20,4,Jul
+839,Power BI Rank for time intelligence : Working with Non Standard Periods. This Period Vs Last Period,2020-05-09,453,17,1,May
+840,"Power BI  Date As Dateadd - #DATEADD , #DATE",2020-04-29,1119,19,2,Apr
